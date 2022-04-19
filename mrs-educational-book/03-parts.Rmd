@@ -1,12 +1,78 @@
-# Parts
+# MRS Study Material List 
 
-You can add parts to organize one or more book chapters together. Parts can be inserted at the top of an .Rmd file, before the first-level chapter heading in that same file. 
+## Selected books for MRS, MRI& NMR
 
-Add a numbered part: `# (PART) Act one {-}` (followed by `# A chapter`)
+- R.A. de Graaf `In Vivo NMR Spectroscopy: Principles and Techniques`,John Wiley & Sons Ltd.,ThirdEdition, 2018(comprehensive and comprehendible overview of in vivo MR spectroscopy techniques; very extensive treatment of radiofrequency (RF) pulses including adiabatic RF pulses; probably thereference as a textbookfor MRS)
+- P.B. Barker, A. Bizzi, N. De Stefano, R.Gullapalli, and D.D.M. Lin `Clinical MR Spectroscopy:Techniques and Applications`,Cambridge University Press,2010(describes underlying physical principles of MRS and provides a perceptive review of clinical MRS applications)
+- R.W. Brown, Y.-C.N. Cheng, E.M. Haacke, M.R. Thompson, and R.Venkatesan `Magnetic Resonance Imaging: Physical Principles and Sequence Design`, New York: J. Wiley & Sons, c1999; 2ndEdition,2014 (excellent text that balances mathematical strictness and physics concepts with intuitional and technical explanations!!!;specific topics, such as fast spin echo, are treated toa lesser extent than desirable; only a few pages about MR spectroscopy)
+- D.W. McRobbie, E.A. Moore, M.J. Graves and M.R. Prince`MRI From Proton to Picture`,Cambridge University Press, 2ndEdition, 2006 (comprehensive introduction to the basics of MR practice and theory; very comprehendible and with superb illustrations; one chapter about MR spectroscopy)
+- P. Mansfield and P.G. Morris `NMR Imaging in Biomedicine`,New York: Academic Press, 1982(classic textbook with elegant treatment of NMR techniques, though too involved for a beginner)
+- A. Abragam `The Principles of Nuclear Magnetism`, Oxford, 1961(standard text for quantum mechanical treatment of nuclear magnetism; requires good knowledge of quantum mechanics)Selected papers for MRS & NMR(to be completed):
+- One of the first papers about the basic concepts of NMR:[1]
+- The fundamental concept of an echo is introduced in:[2][1]F. Bloch, “Nuclear induction,” Physical Review, vol. 70, pp. 460-74, 1946.[2]E. L. Hahn, “Spin Echoes,” Physical Review, vol. 80, pp. 580, 1950
 
-Add an unnumbered part: `# (PART\*) Act one {-}` (followed by `# A chapter`)
+## Web links
 
-Add an appendix as a special kind of un-numbered part: `# (APPENDIX) Other stuff {-}` (followed by `# A chapter`). Chapters in an appendix are prepended with letters instead of numbers.
+**Here are some web links that lead to tutorials or introductory material for MR S& NMR:**
+
+- https://www.cis.rit.edu/htbooks/nmr/
+
+  (online book “The Basics of NMR” by Hornak with nice animations, intended for beginners)
+
+- https://www.cis.rit.edu/htbooks/mri/
+
+  (online book “The Basics of MRI” by Hornak with nice animations, intended for beginners)
+
+- https://mrshub.org/
+
+  (MRS hub of the ISMRM MR Spectroscopy Study Group)
+
+- http://www.users.on.net/~spinupdownunder/spectroscopy/MRS.htm 
+
+  (Adelaide web site for MR spectroscopy)
+
+- https://www.imaios.com/en/e-Courses/e-MRI/Magnetic-Resonance-Spectroscopy-MRS 
+
+  (very short e-MRI courseaboutMR spectroscopy, just as a start)
+
+- http://www.simplyphysics.com/MARS/data/level_1/spectros.htm 
+
+  (General MR Spectroscopy Acronym Directory)
+
+## Educational Materials List
+
+### MRS Workshop
+
+- [Introduction to MRS]() by `Ulrike Dydak`
+
+- [Basics of MRS]() by `Ariane Filmer`
+- [Localization Methods]() by `Riemann`
+- [Calib & Workflow]() by `Ariane Filmer`
+- [Postprocessing & Quantification]() by `Georg Oeltzschner`
+- [NeuroMet Mrs workshop literature list]()
+- [High Field Workshop]() by `Heidelberg Kan`
+- [MRS in Neuromuscular Disease inspector]() by `Hermien Kan`
+
+### NMR Spectroscopy Course 
+
+The course is given by ```James Keeler``` and includes 9 chapters and exercises.
+
+- [Understanding NMR - Overview]()
+- [NMR and Energy Levels]()
+- [The Vector Model]()
+- [FT and Data Processing]()
+- [How the Spectrometer Works]()
+- [Product Operators]()
+- [2D NMR]()
+- [Relaxation]()
+- [Phase Cycling and Gradient Pulses]()
+- [Exercises ]()
 
 
+
+### Presentations 
+
+- `Insensitive Nuclei Enhanced by Polarization TransferGareth (INEPT)` A. Morris and Ray Freeman JACS, 101, 1979, 760-762 [Link]()
+- `Coupling constants` E. Kwan  [Link]()
+- `Second Order Shimmingof High Field Magnets ` [Link]()
 
