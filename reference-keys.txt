@@ -4,7 +4,10 @@ foreword
 editors
 authors-and-co-editors
 educational-content-provided-by
-welcome-to-the-mrs-educational-materials-group
+getting-started-with-mrs-a-digital-collection-of-community-sourced-educational-materials
+editors-1
+authors-and-co-editors-1
+educational-content-provided-by-1
 mri-study-material-list
 selected-books-for-mri-nmr
 selected-papers-for-mri
