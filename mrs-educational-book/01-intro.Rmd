@@ -1,3 +1,51 @@
-# Welcome to the MRS Educational Materials Group!
+# Getting started with MRS: A digital collection of community-sourced educational materials
 
-The  **`MRS Educational Materials Group`** is a curated collection of resources for the understanding and analysis of magnetic resonance spectroscopy. It is maintained by the International Society for Magnetic Resonance in Medicine (ISMRM)/ MRS Study group for the collection of MRS materials, presentations, and books.
+In 2021, the Committee for Code & Data Sharing, a standing committee of the MR Spectroscopy (MRS) Study Group within the International Society for Magnetic Resonance in Medicine (ISMRM), set out to compile and curate educational materials related to MRS. Our goal was to develop a centralized resource of MRS-related materials that is freely available, annotated, and updated often. While a plethora of MRS resources exist, these can be difficult to navigate for newcomers to the field. This e-book contains a glossary and summaries written with college-level students in mind, and educational materials were provided by the global MRS community. The first edition of this collection was debuted at the 2022 ISMRM Annual Meeting in London, England, and we hope researchers will continue to contribute new educational content and material. We encourage this resource to be shared widely with students, collaborators, and colleagues who are interested in learning more about MRS and welcome any feedback and future contributions.
+
+For feedback and contributions:
+
+Email: Candace Fleischer, fleischerlab@gmail.com Post on the MRSHub Forum:
+
+### Editors
+
+Candace Fleischer and Georg Oeltzschner
+
+### Authors and Co-Editors
+
+Georgios Batsios
+
+Sevim Cengiz
+
+Cristina Cudalbu
+
+Samual Guay
+
+Sunita Gudwani
+
+John LaMaster
+
+Alexandra Lipka
+
+Rudy Rizzo
+
+Dongsuk Sung
+
+Edith Valle
+
+### Educational content provided by
+
+Cristina Cudalbu
+
+Ulrike Dydak
+
+Matthew Erikson
+
+Ariane Filmer
+
+Hermien Kan
+
+Ralf Mekle
+
+Georg Oeltzschner
+
+ISMRM MRS Study Group
