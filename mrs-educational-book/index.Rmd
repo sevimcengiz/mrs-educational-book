@@ -1,6 +1,49 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
+title: "MRS: A digital collection of community-sourced educational materials"
+author: " ***Editors*** 
+
+Candace Fleischer and Georg Oeltzschner 
+ 
+***Authors and Co-Editors*** 
+
+Georgios Batsios 
+
+Sevim Cengiz 
+
+Cristina Cudalbu 
+
+Samual Guay 
+
+Sunita Gudwani 
+
+John LaMaster 
+
+Alexandra Lipka 
+
+Rudy Rizzo 
+
+Dongsuk Sung 
+
+Edith Valle 
+ 
+***Educational content provided by ***
+
+Cristina Cudalbu 
+
+Ulrike Dydak 
+
+Matthew Erikson 
+
+Ariane Filmer 
+
+Hermien Kan 
+
+Ralf Mekle 
+
+Georg Oeltzschner 
+
+ISMRM MRS Study Group 
+ "
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
