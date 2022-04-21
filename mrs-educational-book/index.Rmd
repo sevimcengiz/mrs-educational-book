@@ -1,32 +1,6 @@
 --- 
 title: "MRS: A digital collection of community-sourced educational materials"
-author: " "
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
-documentclass: book
-bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
-description: |
-  This is a minimal example of using the bookdown package to write a book.
-  The HTML output format for this example is bookdown::gitbook,
-  set in the _output.yml file.
-link-citations: yes
-github-repo: rstudio/bookdown-demo
----
-
-## ***Foreword ***
-
-In 2021, the Committee for Code & Data Sharing, a standing committee of the MR Spectroscopy (MRS) Study Group within the International Society for Magnetic Resonance in Medicine (ISMRM), set out to compile and curate educational materials related to MRS. Our goal was to develop a centralized resource of MRS-related materials that is freely available, annotated, and updated often. While a plethora of MRS resources exist, these can be difficult to navigate for newcomers to the field. This e-book contains a glossary and summaries written with college-level students in mind, and educational materials were provided by the global MRS community. The first edition of this collection was debuted at the 2022 ISMRM Annual Meeting in London, England, and we hope researchers will continue to contribute new educational content and material. We encourage this resource to be shared widely with students, collaborators, and colleagues who are interested in learning more about MRS and welcome any feedback and future contributions.  
-  
-###For feedback and contributions:  
-
-***Email: *** Candace Fleischer, fleischerlab@gmail.com 
-
-[***Post on the MRSHub Forum***](https://forum.mrshub.org/)  
- 
-
-## ***Editors*** 
+author: " ***Editors*** 
 
 Candace Fleischer and Georg Oeltzschner 
  
@@ -52,7 +26,7 @@ Dongsuk Sung
 
 Edith Valle 
  
-## ***Educational content provided by ***
+***Educational content provided by ***
 
 Cristina Cudalbu 
 
@@ -69,4 +43,61 @@ Ralf Mekle
 Georg Oeltzschner 
 
 ISMRM MRS Study Group 
+ "
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a minimal example of using the bookdown package to write a book.
+  The HTML output format for this example is bookdown::gitbook,
+  set in the _output.yml file.
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
 
+# About
+
+This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+
+## Usage 
+
+Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
+
+Use second-level and higher headings within chapters like: `## A short section` or `### An even shorter section`.
+
+The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
+
+## Render book
+
+You can render the HTML version of this example book without changing anything:
+
+1. Find the **Build** pane in the RStudio IDE, and
+
+1. Click on **Build Book**, then select your output format, or select "All formats" if you'd like to use multiple formats from the same book source files.
+
+Or build the book from the R console:
+
+```{r, eval=FALSE}
+bookdown::render_book()
+```
+
+To render this example to PDF as a `bookdown::pdf_book`, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
+
+## Preview book
+
+As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
+
+```{r eval=FALSE}
+bookdown::serve_book()
+```
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
