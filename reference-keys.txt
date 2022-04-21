@@ -1,8 +1,9 @@
 fig:nice-fig
 tab:nice-tab
-foreword
-editors
-educational-content-provided-by
+about
+usage
+render-book
+preview-book
 welcome-to-the-mrs-educational-materials-group
 mri-study-material-list
 selected-books-for-mri-nmr
