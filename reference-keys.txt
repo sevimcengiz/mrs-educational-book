@@ -10,3 +10,15 @@ web-links
 mrs
 online-library-for-mrs-educational-materials
 introduction-to-mrs
+mrs-study-material-list
+mrs-and-nmr-glossary
+introduction-and-fundamentals
+nmr-signal-and-spectra
+nmr-experiment-and-hardware
+pre-processing
+analysis
+additional-mri-glossaries
+sharing-your-book
+publishing
+pages
+metadata-for-sharing
