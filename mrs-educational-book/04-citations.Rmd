@@ -102,7 +102,7 @@
  
 ***T2:*** The transverse relaxation time T2 (or spin-spin relaxation) is the process by which the transverse components of magnetization decay or diphase. It involves the loss of the phase coherence between nucleus precession in the transverse plane. As a results the net magnetization decreases as a function of time. It is the time required for the transverse magnetization to fall to approximately 37% (=1/e) of its initial value. 
  
-***T2*:*** Additional to the T2 relaxation time there are additional mechanism leading to loss of phase coherence. The spatial variations in the strength of the magnetic field within the body either due to the intrinsic magnet design which does not produce a perfectly uniform magnetic field over the entire object and due to the different magnetic susceptibilities of different tissues (mainly pronounced at air/tissue and bone/tissue boundaries). Together all these mechanisms account for the relaxation time T2*.
+***T2* : *** Additional to the T2 relaxation time there are additional mechanism leading to loss of phase coherence. The spatial variations in the strength of the magnetic field within the body either due to the intrinsic magnet design which does not produce a perfectly uniform magnetic field over the entire object and due to the different magnetic susceptibilities of different tissues (mainly pronounced at air/tissue and bone/tissue boundaries). Together all these mechanisms account for the relaxation time T2*.
 
 ***Time domain:*** The time domain is an information domain in which data is expressed as a function of time. In spectroscopy, the signal is collected by the instrument in the time domain. A free induction decay is an example of a time domain signal in spectroscopy. Other examples of time domain signals include voice recordings, ECGs, weather forecasts, and stock market trackings.
 
@@ -163,9 +163,9 @@
 
 ## Additional MRI Glossaries
 
-```Expert Consensus on Terms in MRS``` [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/nbm.4347)  
+***Expert Consensus on Terms in MRS*** [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/nbm.4347)  
 
-```Simple``` [Link](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118782934.gloss)
+***Simple*** [Link](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118782934.gloss)
 
-```Comprehensive```[Link](https://www.acr.org/-/media/ACR/Files/Radiology-Safety/MR-Safety/MRGlossary.pdf)
+***Comprehensive*** [Link](https://www.acr.org/-/media/ACR/Files/Radiology-Safety/MR-Safety/MRGlossary.pdf)
 
