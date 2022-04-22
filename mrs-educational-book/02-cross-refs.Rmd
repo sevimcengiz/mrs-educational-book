@@ -9,7 +9,8 @@ Summary
 ```Beginner```
 
 ```Keywords:``` *chemical shift*, *J-coupling*, *relaxation*, *magnetic field strength*
-- ***Ulrike Dydak*** 
+
+***Ulrike Dydak*** 
 
 Introduction to basic principles behind MRS including chemical shift, J-coupling, line (peak) splitting, and chemical structure. The importance of shimming, effects of echo time and repetition time, and the effect of external field strength (B0) are also explained.
 
@@ -18,7 +19,7 @@ Video
 ### Skeletal Muscle MR Spectroscopy at High Field
 
 
-- ***Hermien Kan*** 
+***Hermien Kan*** 
 
 ```Advanced```
 
@@ -30,7 +31,7 @@ Introduction to muscle architecture and related application of MRS. A review of 
 
 ### Skeletal Muscle MR Spectroscopy in Neuromuscular Disease
 
-- ***Hermien Kan*** 
+***Hermien Kan*** 
 
 ```Advanced```
 
@@ -177,11 +178,6 @@ A slide about a specific pulse sequence INEPT. This slide briefly introduces mai
 
 
 
-
-
-
-
-
 - https://mrshub.org/
 
   (MRS hub of the ISMRM MR Spectroscopy Study Group)
@@ -200,7 +196,7 @@ A slide about a specific pulse sequence INEPT. This slide briefly introduces mai
 
 
 
-## Selected Books for MRS, MRI & NMR
+## Selected Books 
 
 - R.A. de Graaf `In Vivo NMR Spectroscopy: Principles and Techniques`,John Wiley & Sons Ltd.,ThirdEdition, 2018(comprehensive and comprehendible overview of in vivo MR spectroscopy techniques; very extensive treatment of radiofrequency (RF) pulses including adiabatic RF pulses; probably thereference as a textbookfor MRS)
 - P.B. Barker, A. Bizzi, N. De Stefano, R.Gullapalli, and D.D.M. Lin `Clinical MR Spectroscopy:Techniques and Applications`,Cambridge University Press,2010(describes underlying physical principles of MRS and provides a perceptive review of clinical MRS applications)

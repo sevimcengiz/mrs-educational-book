@@ -10,39 +10,55 @@ MRI = Magnetic Resonance Imaging
 MRS = Magnetic Resonance Spectroscopy
 ```
 
-## Selected books for MRI & NMR
+## Selected Books for MRI & NMR
 
-- R.W. Brown, Y.-C.N. Cheng, E.M. Haacke, M.R. Thompson, and R.Venkatesan  `Magnetic Resonance Imaging: Physical Principles and Sequence Design`, New York: J. Wiley & Sons, c1999; 2ndEdition,2014
+***Magnetic Resonance Imaging: Physical Principles and Sequence Design***
 
-  (excellent text that balances mathematical strictness and physics concepts with intuitionaland technical explanations!!! specific topics, such as fast spin echo, are treated toa lesser extent than desirable; only a few pages about MR spectroscopy)
+[Book](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118633953)
 
-- M.A. Bernstein, K.F. Kingand X.J.Zhou `Handbook of MRI Pulse Sequences`,Academic Press,2004
+  - Excellent text that balances mathematical strictness and physics concepts with intuitionaland technical explanations. Specific topics, such as fast spin echo, are treated toa lesser extent than desirable; only a few pages about MR spectroscopy
 
-  (outstanding coverage of MR imaging pulse sequences and their various elements, such as radiofrequency(RF)pulses and gradients)
+***Handbook of MRI Pulse Sequences*** 
 
-- D.W. McRobbie, E.A. Moore, M.J. Graves and M.R. Prince `MRI From Proton to Picture`, Cambridge University Press, 2ndEdition, 2006 
+[Book](https://www.sciencedirect.com/book/9780120928613/handbook-of-mri-pulse-sequences)
 
-  (comprehensive introduction to the basics of MR practice and theory; very comprehendible and with superb illustrations;one chapter about MR spectroscopy)
+ - Outstanding coverage of MR imaging pulse sequences and their various elements, such as radiofrequency (RF) pulses and gradients
 
-- M.T. Vlaardingerbroek and J.A. de Boer  `Magnetic resonance imaging: theory and practice`, New York: Springer, 1999
+*** MRI from Proton to Picture***
 
-  (very good book, though not thought for someone, who makes his/her first acquaintance with MRI (as is also stated in its preface; some common nomenclature with Haacke's book))
+[Book](https://www.cambridge.org/core/books/mri-from-picture-to-proton/3ADC814FF8FC6A78A54D37746F806D5A
 
-- R.H. Hashemi `MRI: The Basics`, Baltimore: Williams & Wilkins, c1997
+  - Comprehensive introduction to the basics of MR practice and theory; very comprehendible and with superb illustrations; one chapter about MR spectroscopy
 
-  very introductory text that summarizes most important concepts of MRI; a suitable tool to obtain a first overview of MRI principles, but does not provide in-depth insight)
+***Magnetic Resonance Imaging: Theory and Practice***  
 
-- V. L. Kuperman `Magnetic Resonance Imaging: Physical Principles and Applications`,San Diego : Academic, c2000 (intended as a text/reference for students, researchers, and professors interested in physical and biomedical applications of MRI)
+[Book](https://www.amazon.com/Magnetic-Resonance-Imaging-Theory-Practice/dp/3642078230)
 
-- P. Mansfield and P.G. Morris `NMR Imaging in Biomedicine`,New York: Academic Press, 1982 
+  - Very good book, though not thought for someone, who makes his/her first acquaintance with MRI (as is also stated in its preface; some common nomenclature with Haacke's book)
 
-  (classic textbook with elegant treatment of NMR techniques, though too involved for a beginner.
+***MRI: The Basics***
 
-- A. Abragam `The Principles of Nuclear Magnetism`, Oxford, 1961 
+[Book](https://www.amazon.com/MRI-Ray-Hashman-Hashemi-PhD/dp/1608311155)
 
-  (standard text for quantum mechanical treatment of nuclear magnetism; requires good knowledge of quantum mechanics)
+  - Very introductory text that summarizes most important concepts of MRI; a suitable tool to obtain a first overview of MRI principles, but does not provide in-depth insight
 
-## Selected papers for MRI
+***Magnetic Resonance Imaging: Physical Principles and Applications***
+
+[Book](https://www.amazon.com/Magnetic-Resonance-Imaging-Principles-Applications/dp/0123886651)
+
+***NMR Imaging in Biomedicine***
+
+[Book](https://books.google.ae/books/about/NMR_Imaging_in_Biomedicine.html?id=QLBqAAAAMAAJ&redir_esc=y)
+
+  -Classic textbook with elegant treatment of NMR techniques, though too involved for a beginner.
+
+***The Principles of Nuclear Magnetism***
+
+[Book](https://books.google.ae/books?id=9M8U_JK7K54C&printsec=frontcover&dq=The+Principles+of+Nuclear+Magnetism+english!&hl=en&sa=X&ved=2ahUKEwiarMPppKj3AhVARPEDHRYjCf4Q6AF6BAgJEAI#v=onepage&q&f=false)
+
+  -Standard text for quantum mechanical treatment of nuclear magnetism; requires good knowledge of quantum mechanics)
+
+## Selected Papers
 
 - One of the first papers about the basic concepts of NMR:[^1]
 - A good introduction to basic NMR signal detection:[^2]
@@ -68,7 +84,7 @@ _References_
 
 ## Web links
 
-**Here are some web links that lead to tutorials or introductory material for MRI& MRS:**
+**Here are some web links that lead to tutorials or introductory material for MRI & MRS:**
 
 - https://www.cis.rit.edu/htbooks/mri/ 
 
