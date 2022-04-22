@@ -1,6 +1,8 @@
 # MRS
 
-## Summary for MRS Educational Materials
+## Online Library for MRS Educational Materials
+
+Summary 
 
 ### Introduction to MRS
 
@@ -11,7 +13,7 @@
 
 Introduction to basic principles behind MRS including chemical shift, J-coupling, line (peak) splitting, and chemical structure. The importance of shimming, effects of echo time and repetition time, and the effect of external field strength (B0) are also explained.
 
-[Video]() 
+Video
 
 ### Skeletal Muscle MR Spectroscopy at High Field
 
@@ -24,7 +26,7 @@ Introduction to basic principles behind MRS including chemical shift, J-coupling
 
 Introduction to muscle architecture and related application of MRS. A review of 1H MRS muscle spectra with focus on IMCL (Intra-), EMCL (Extra-) -myocellular lipid content, carnitine and carnosine. 31P MRS muscle spectra are also discussed including muscle metabolism and muscular dystrophy.
 
-[Slide]() 
+[Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/high%20field%20workshop%20Heidelberg%20Kan.pdf) 
 
 ### Skeletal Muscle MR Spectroscopy in Neuromuscular Disease
 
@@ -36,7 +38,7 @@ Introduction to muscle architecture and related application of MRS. A review of 
 
 Introduction to muscular damage and disease with a focus on 31P MRS and utility in diagnosis. Static MRS markers are reviewed, e.g., pH, phosphocreatine, inorganic phosphate, etc, as well as dynamic MRS acquired during exercise.
 
-[Slide]() 
+[Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/MRS%20in%20neuromuscular%20disease%20Inspector.pdf) 
 
 ### NeuroMET Virtual MR Spectroscopy Workshop 
 
@@ -50,19 +52,19 @@ Introduction to muscular damage and disease with a focus on 31P MRS and utility 
 
 Introduction to MR signal generation, signal conversion to images, and Fourier transform. Lecture focuses on how MR spectroscopy is different from MR imaging, followed by detailed explanations of chemical shift and J-coupling. Lastly, an introduction to the clinical application of MRS as a diagnostic tool for brain tumors, multiple sclerosis, and schizophrenia is provided.
 
-[Slide]() 
+[Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/L1-BasicsOfMRS_Fillmer.pdf) 
 
 ### Localization Methods 
 
-***Ariane Fillmer, PhD*** 
+***Ariane Fillmer, PhD***  PS: Presenter is different!! Layla Tabea Riemann, M.Sc.
 
-
+(Slide)[https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/L2_LocalizationMethods_Riemann.pdf]
 
 ```Keywords:``` *PRESS*, *STEAM*, *ISIS*, *(s)LASER*, *SPECIAL*
 
 This lecture introduces ‘classical’ single voxel in vivo MRS sequences without adiabatic pulses as well as ‘modern’ sequences with adiabatic pulses, including advantages and disadvantages of each sequence. The trade-off between specific absorption rate (SAR), chemical shift displacement (CSD), and TE/measurement time are discussed. Multi-voxel MR spectroscopic imaging (MRSI) or chemical shift imaging (CSI) is also introduced.
 
-### Calibration & Workflow (Slide)[]
+### Calibration & Workflow (Slide)[https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/L3-Calib%26Workflow_Fillmer.pdf]
 
 ***Ariane Fillmer, PhD***
 
@@ -72,7 +74,7 @@ This lecture introduces ‘classical’ single voxel in vivo MRS sequences witho
 
 Introduction to key factors for high quality MRS data with artifact free signal and separated and well-defined peaks. High quality data can be achieved with a homogenous B0 (external) magnetic field, adequate signal to noise, and high spectral resolution. A discussino of B0 inhomogeneity is also included. Spectral quality factors are reviewed including (1) shimming, (2) signal-to-noise ratio (SNR), (3) water-suppression, (4) spectral-resolution, (5) improving artifacts due to signal from outside the voxel, and (6) motion correction. The overall workflow for optimal spectral quality is also described including, anatomical imaging for voxel placement, reference voltage B0 shim (1-5 minutes), quality check (1minute), and MRS acquisition.
 
-### MRS Postprocessing & Quantification (Slide)[]
+### MRS Postprocessing & Quantification (Slide)[https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/L4-Postprocessing%26Quantification_Oeltzschner.pdf]
 
 ***Georg Oeltzschner, PhD***
 
@@ -82,7 +84,7 @@ Introduction to key factors for high quality MRS data with artifact free signal 
 
 Introduction of pre- and post-processing techniques in MRS. MRS data analysis workflow, from raw data export to report generation, is described including considerations such as sequence developer, software version, and acquisition parameters. MRS data analysis steps are explained including preprocessing, visualization, modeling, quantification, and quality assessment. Finally, introduction and comparison of MRS software is provided, including LCModel, jMRUI, TARQUIN, Vespa, FID-A, Gannet, INSPECTOR, Osprey, Spant, and FSL-MRS.
 
-### Understanding NMR Spectroscopy (Book)[]
+### Understanding NMR Spectroscopy (Book)[https://www.repository.cam.ac.uk/bitstream/handle/1810/257040/Keeler-2002-Understanding_NMR_Spectroscopy.pdf?sequence=1]
 
 ***James Keeler***
 
@@ -139,32 +141,40 @@ This chapter considers the important topic of relaxation in NMR. We start out by
 
 This chapter is concerned with the two methods used in multiple pulse NMR to select a particular outcome in an NMR experiment: phase cycling and field gradient pulses. An understanding of how these work is helpful in getting to grips with the details of how experiments are actually run.
 
+#### Coupling Constants 
 
+*** Eugene E. Kwan***
 
+```Advanced```
 
+(Slide)[https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/NMR_J-Coupling_201201_Lecture_3_CouplingConstants_Harvard_Kwan_EE.pdf]
 
-## Selected Books for MRS, MRI & NMR
+```Keywords:``` *Hoye’s method*, *J coupling*, *the Fermi contact model*, *virtual coupling*, *chemical and magnetic equivalence*, *first and second order spectra*
 
-- R.A. de Graaf `In Vivo NMR Spectroscopy: Principles and Techniques`,John Wiley & Sons Ltd.,ThirdEdition, 2018(comprehensive and comprehendible overview of in vivo MR spectroscopy techniques; very extensive treatment of radiofrequency (RF) pulses including adiabatic RF pulses; probably thereference as a textbookfor MRS)
-- P.B. Barker, A. Bizzi, N. De Stefano, R.Gullapalli, and D.D.M. Lin `Clinical MR Spectroscopy:Techniques and Applications`,Cambridge University Press,2010(describes underlying physical principles of MRS and provides a perceptive review of clinical MRS applications)
-- R.W. Brown, Y.-C.N. Cheng, E.M. Haacke, M.R. Thompson, and R.Venkatesan `Magnetic Resonance Imaging: Physical Principles and Sequence Design`, New York: J. Wiley & Sons, c1999; 2ndEdition,2014 (excellent text that balances mathematical strictness and physics concepts with intuitional and technical explanations!!!;specific topics, such as fast spin echo, are treated toa lesser extent than desirable; only a few pages about MR spectroscopy)
-- D.W. McRobbie, E.A. Moore, M.J. Graves and M.R. Prince`MRI From Proton to Picture`,Cambridge University Press, 2ndEdition, 2006 (comprehensive introduction to the basics of MR practice and theory; very comprehendible and with superb illustrations; one chapter about MR spectroscopy)
-- P. Mansfield and P.G. Morris `NMR Imaging in Biomedicine`,New York: Academic Press, 1982(classic textbook with elegant treatment of NMR techniques, though too involved for a beginner)
-- A. Abragam `The Principles of Nuclear Magnetism`, Oxford, 1961(standard text for quantum mechanical treatment of nuclear magnetism; requires good knowledge of quantum mechanics)Selected papers for MRS & NMR(to be completed):
-- One of the first papers about the basic concepts of NMR:[1]
-- The fundamental concept of an echo is introduced in:[2][1]F. Bloch, “Nuclear induction,” Physical Review, vol. 70, pp. 460-74, 1946.[2]E. L. Hahn, “Spin Echoes,” Physical Review, vol. 80, pp. 580, 1950
+This is an expert level lecture about coupling constants. This lecture trying to answer three questions: 1) what are coupling constants, 2) how big are they, and 3)how can they be extracted from first-order multiplets
+
+#### Insensitive Nuclei Enhanced by Polarization Transfer (INEPT) 
+
+```Advanced```
+
+A slide about a specific pulse sequence INEPT. This slide briefly introduces main interactions in solution NMR (the chemical shift and the J coupling), and then explains about concepts of spin echo sequence and decoupling. They combined the spin echo and decoupling and tried some theoretical experiments.
+
+(Slide)[https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/presentation_INEPT_MRS_sequence.pdf]
 
 ## Web links
 
-**Here are some web links that lead to tutorials or introductory material for MR S& NMR:**
+**Here are some web links that lead to tutorials or introductory material for MRS & NMR:**
 
-- https://www.cis.rit.edu/htbooks/nmr/
+- ```The Basics of NMR``` by Hornak with animations, intended for beginners. [Online book](https://www.cis.rit.edu/htbooks/nmr/)
 
-  (online book “The Basics of NMR” by Hornak with nice animations, intended for beginners)
+- ```The Basics of MRI``` by Hornak with nice animations, intended for beginners. [Online book](https://www.cis.rit.edu/htbooks/mri/)
 
-- https://www.cis.rit.edu/htbooks/mri/
+-```
 
-  (online book “The Basics of MRI” by Hornak with nice animations, intended for beginners)
+
+
+
+
 
 - https://mrshub.org/
 
@@ -182,41 +192,16 @@ This chapter is concerned with the two methods used in multiple pulse NMR to sel
 
   (General MR Spectroscopy Acronym Directory)
 
-## Educational Materials List
-
-### MRS Workshop
-
-- [Introduction to MRS]() by `Ulrike Dydak`
-
-- [Basics of MRS]() by `Ariane Filmer`
-- [Localization Methods]() by `Riemann`
-- [Calib & Workflow]() by `Ariane Filmer`
-- [Postprocessing & Quantification]() by `Georg Oeltzschner`
-- [NeuroMet Mrs workshop literature list]()
-- [High Field Workshop]() by `Heidelberg Kan`
-- [MRS in Neuromuscular Disease inspector]() by `Hermien Kan`
-
-### NMR Spectroscopy Course 
-
-The course is given by ```James Keeler``` and includes 9 chapters and exercises.
-
-- [Understanding NMR - Overview]()
-- [NMR and Energy Levels]()
-- [The Vector Model]()
-- [FT and Data Processing]()
-- [How the Spectrometer Works]()
-- [Product Operators]()
-- [2D NMR]()
-- [Relaxation]()
-- [Phase Cycling and Gradient Pulses]()
-- [Exercises ]()
 
 
+## Selected Books for MRS, MRI & NMR
 
-### Presentations 
-
-- `Insensitive Nuclei Enhanced by Polarization TransferGareth (INEPT)` A. Morris and Ray Freeman JACS, 101, 1979, 760-762 [Link]()
-- `Coupling constants` E. Kwan  [Link]()
-- `Second Order Shimmingof High Field Magnets ` [Link]()
-
+- R.A. de Graaf `In Vivo NMR Spectroscopy: Principles and Techniques`,John Wiley & Sons Ltd.,ThirdEdition, 2018(comprehensive and comprehendible overview of in vivo MR spectroscopy techniques; very extensive treatment of radiofrequency (RF) pulses including adiabatic RF pulses; probably thereference as a textbookfor MRS)
+- P.B. Barker, A. Bizzi, N. De Stefano, R.Gullapalli, and D.D.M. Lin `Clinical MR Spectroscopy:Techniques and Applications`,Cambridge University Press,2010(describes underlying physical principles of MRS and provides a perceptive review of clinical MRS applications)
+- R.W. Brown, Y.-C.N. Cheng, E.M. Haacke, M.R. Thompson, and R.Venkatesan `Magnetic Resonance Imaging: Physical Principles and Sequence Design`, New York: J. Wiley & Sons, c1999; 2ndEdition,2014 (excellent text that balances mathematical strictness and physics concepts with intuitional and technical explanations!!!;specific topics, such as fast spin echo, are treated toa lesser extent than desirable; only a few pages about MR spectroscopy)
+- D.W. McRobbie, E.A. Moore, M.J. Graves and M.R. Prince`MRI From Proton to Picture`,Cambridge University Press, 2ndEdition, 2006 (comprehensive introduction to the basics of MR practice and theory; very comprehendible and with superb illustrations; one chapter about MR spectroscopy)
+- P. Mansfield and P.G. Morris `NMR Imaging in Biomedicine`,New York: Academic Press, 1982(classic textbook with elegant treatment of NMR techniques, though too involved for a beginner)
+- A. Abragam `The Principles of Nuclear Magnetism`, Oxford, 1961(standard text for quantum mechanical treatment of nuclear magnetism; requires good knowledge of quantum mechanics)Selected papers for MRS & NMR(to be completed):
+- One of the first papers about the basic concepts of NMR:[1]
+- The fundamental concept of an echo is introduced in:[2][1]F. Bloch, “Nuclear induction,” Physical Review, vol. 70, pp. 460-74, 1946.[2]E. L. Hahn, “Spin Echoes,” Physical Review, vol. 80, pp. 580, 1950
 
