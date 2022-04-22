@@ -1,6 +1,6 @@
 # Getting started with MRS
 
-## Selected books for MRS, MRI& NMR
+## Selected Books for MRS, MRI & NMR
 
 - R.A. de Graaf `In Vivo NMR Spectroscopy: Principles and Techniques`,John Wiley & Sons Ltd.,ThirdEdition, 2018(comprehensive and comprehendible overview of in vivo MR spectroscopy techniques; very extensive treatment of radiofrequency (RF) pulses including adiabatic RF pulses; probably thereference as a textbookfor MRS)
 - P.B. Barker, A. Bizzi, N. De Stefano, R.Gullapalli, and D.D.M. Lin `Clinical MR Spectroscopy:Techniques and Applications`,Cambridge University Press,2010(describes underlying physical principles of MRS and provides a perceptive review of clinical MRS applications)
