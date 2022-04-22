@@ -22,3 +22,7 @@ nmr-experiment-and-hardware
 pre-processing
 analysis
 additional-mri-glossaries
+sharing-your-book
+publishing
+pages
+metadata-for-sharing
