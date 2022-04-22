@@ -4,36 +4,140 @@
 
 ### Introduction to MRS
 
-- ***Ulrike Dydak*** [Video]() ```Beginner```
+```Beginner```
 
 ```Keywords:``` *chemical shift*, *J-coupling*, *relaxation*, *magnetic field strength*
+- ***Ulrike Dydak*** 
 
 Introduction to basic principles behind MRS including chemical shift, J-coupling, line (peak) splitting, and chemical structure. The importance of shimming, effects of echo time and repetition time, and the effect of external field strength (B0) are also explained.
 
+[Video]() 
+
 ### Skeletal Muscle MR Spectroscopy at High Field
 
-- ***Hermien Kan*** [Slide]() ```Advanced```
+
+- ***Hermien Kan*** 
+
+```Advanced```
 
 ```Keywords:``` *skeletal muscle*, *1H spectroscopy*, *31P spectroscopy*, *high field*
 
 Introduction to muscle architecture and related application of MRS. A review of 1H MRS muscle spectra with focus on IMCL (Intra-), EMCL (Extra-) -myocellular lipid content, carnitine and carnosine. 31P MRS muscle spectra are also discussed including muscle metabolism and muscular dystrophy.
 
-### Skeletal muscle MR spectroscopy in neuromuscular disease
-- ***Hermien Kan*** [Slide]() ```Advanced```
+[Slide]() 
+
+### Skeletal Muscle MR Spectroscopy in Neuromuscular Disease
+
+- ***Hermien Kan*** 
+
+```Advanced```
 
 ```Keywords:``` *neuromuscular disease*, *skeletal muscle damage*, *energy metabolism*
 
 Introduction to muscular damage and disease with a focus on 31P MRS and utility in diagnosis. Static MRS markers are reviewed, e.g., pH, phosphocreatine, inorganic phosphate, etc, as well as dynamic MRS acquired during exercise.
 
+[Slide]() 
+
 ### NeuroMET Virtual MR Spectroscopy Workshop 
 
 #### Basics of MR Spectroscopy 
 
-- ***Ariane Fillmer, PhD*** [Slide]() ```Beginner```
+***Ariane Fillmer, PhD*** 
+
+```Beginner```
 
 ```Keywords:``` *spectroscopy*, *chemical shift*, *J-coupling*, *MRS in diagnosis*
 
 Introduction to MR signal generation, signal conversion to images, and Fourier transform. Lecture focuses on how MR spectroscopy is different from MR imaging, followed by detailed explanations of chemical shift and J-coupling. Lastly, an introduction to the clinical application of MRS as a diagnostic tool for brain tumors, multiple sclerosis, and schizophrenia is provided.
+
+[Slide]() 
+
+### Localization Methods 
+
+***Ariane Fillmer, PhD*** 
+
+
+
+```Keywords:``` *PRESS*, *STEAM*, *ISIS*, *(s)LASER*, *SPECIAL*
+
+This lecture introduces ‘classical’ single voxel in vivo MRS sequences without adiabatic pulses as well as ‘modern’ sequences with adiabatic pulses, including advantages and disadvantages of each sequence. The trade-off between specific absorption rate (SAR), chemical shift displacement (CSD), and TE/measurement time are discussed. Multi-voxel MR spectroscopic imaging (MRSI) or chemical shift imaging (CSI) is also introduced.
+
+### Calibration & Workflow (Slide)[]
+
+***Ariane Fillmer, PhD***
+
+```Intermediate```
+
+```Keywords:``` *spectral resolution*, *B0 shimming*, *signal-to-noise ratio*, *water suppression*, *artifacts*
+
+Introduction to key factors for high quality MRS data with artifact free signal and separated and well-defined peaks. High quality data can be achieved with a homogenous B0 (external) magnetic field, adequate signal to noise, and high spectral resolution. A discussino of B0 inhomogeneity is also included. Spectral quality factors are reviewed including (1) shimming, (2) signal-to-noise ratio (SNR), (3) water-suppression, (4) spectral-resolution, (5) improving artifacts due to signal from outside the voxel, and (6) motion correction. The overall workflow for optimal spectral quality is also described including, anatomical imaging for voxel placement, reference voltage B0 shim (1-5 minutes), quality check (1minute), and MRS acquisition.
+
+### MRS Postprocessing & Quantification (Slide)[]
+
+***Georg Oeltzschner, PhD***
+
+```Intermediate```
+
+```Keywords:``` *Preprocessing*, *visualization*, *modeling*, *quantification*, *quality assessment*, *software
+
+Introduction of pre- and post-processing techniques in MRS. MRS data analysis workflow, from raw data export to report generation, is described including considerations such as sequence developer, software version, and acquisition parameters. MRS data analysis steps are explained including preprocessing, visualization, modeling, quantification, and quality assessment. Finally, introduction and comparison of MRS software is provided, including LCModel, jMRUI, TARQUIN, Vespa, FID-A, Gannet, INSPECTOR, Osprey, Spant, and FSL-MRS.
+
+### Understanding NMR Spectroscopy (Book)[]
+
+***James Keeler***
+
+#### Overview
+
+Briefly describes what this course is about: this course is aimed at those who are already familiar with using NMR on a day-to-day basis, but who wish to deepen their understanding of how NMR experiments work and the theory behind them.
+
+#### NMR and Energy Levels 
+
+```Intermediate```
+
+This chapter considers how we can understand the form of the NMR spec trum in terms of the underlying nuclear spin energy levels. Although this approach is more complex than the familiar “successive splitting” method for constructing multiplets it does help us understand how to think about multiplets in terms of “active” and “passive” spins. This approach also makes it possible to understand the form of multiple quantum spectra, which will be useful to us later on in the course. The chapter closes with a discussion of strongly coupled spectra and how they can be analyzed.
+
+#### The Vector Model 
+
+```Intermediate```
+
+This chapter introduces the vector model of NMR. This model has its limitations, but it is very useful for understanding how pulses excite NMR signals. We can also use the vector model to understand the basic, but very important, NMR experiments such as pulse-acquire, inversion recovery and most importantly the spin echo.
+
+#### FT and Data Processing 
+
+```Intermediate```
+
+This chapter is concerned with data processing. The signal we actually record in an NMR experiment is a function of time, and we have to convert this to the usual representation (intensity as a function of frequency) using Fourier transformation. There are quite a lot of useful manipulations that we can carry out on the data to enhance the sensitivity or resolution, depending on what we require. These manipulations are described, and their limitations discussed.
+
+
+#### How the Spectrometer Works 
+
+```Intermediate```
+
+This chapter is concerned with how the spectrometer works. It is not necessary to understand this is great detail, but it does help to have some basic understanding of what is going on when we “shim the magnet” or “tune the probe”. In this chapter we also introduce some important ideas about how the NMR signal is turned into a digital form, and the consequences that this has.
+
+#### Product Operators
+
+```Intermediate```
+
+This chapter introduces the product operator formalism for analyzing NMR experiments. This approach is quantum mechanical, in contrast to the semiclassical approach taken by the vector model. We will see that the formalism is well adapted to describing pulsed NMR experiments, and that despite its quantum mechanical rigor it retains a relatively intuitive approach. Using product operators we can describe important phenomena such as the evolution of couplings during spin echoes, coherence transfer and the generation of multiple quantum coherences.
+
+#### 2D NMR 
+
+```Intermediate```
+
+This chapter puts the tools for immediate use in analyzing and understanding two-dimensional spectra. Such spectra have proved to be enormously useful in structure determination and are responsible for the explosive growth of NMR over the past 20 years or so. We will concentrate on the most important types of spectra, such as COSY and HMQC, analyzing these in some detail.
+
+#### Relaxation 
+
+```Intermediate```
+
+This chapter considers the important topic of relaxation in NMR. We start out by considering the effects of relaxation, concentrating in particular on the very important nuclear Overhauser effect. We then go on to consider the sources of relaxation and how it is related to molecular properties.
+
+#### Phase Cycling and Gradient Pulses
+
+```Advanced```
+
+This chapter is concerned with the two methods used in multiple pulse NMR to select a particular outcome in an NMR experiment: phase cycling and field gradient pulses. An understanding of how these work is helpful in getting to grips with the details of how experiments are actually run.
 
 
 
