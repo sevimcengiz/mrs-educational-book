@@ -54,7 +54,7 @@ Introduction to MR signal generation, signal conversion to images, and Fourier t
 
 [Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/L1-BasicsOfMRS_Fillmer.pdf) 
 
-### Localization Methods 
+#### Localization Methods 
 
 ***Ariane Fillmer, PhD***  PS: Presenter is different!! Layla Tabea Riemann, M.Sc.
 
@@ -64,7 +64,9 @@ Introduction to MR signal generation, signal conversion to images, and Fourier t
 
 This lecture introduces ‘classical’ single voxel in vivo MRS sequences without adiabatic pulses as well as ‘modern’ sequences with adiabatic pulses, including advantages and disadvantages of each sequence. The trade-off between specific absorption rate (SAR), chemical shift displacement (CSD), and TE/measurement time are discussed. Multi-voxel MR spectroscopic imaging (MRSI) or chemical shift imaging (CSI) is also introduced.
 
-### Calibration & Workflow (Slide)[https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/L3-Calib%26Workflow_Fillmer.pdf]
+#### Calibration & Workflow 
+
+(Slide)[https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/L3-Calib%26Workflow_Fillmer.pdf]
 
 ***Ariane Fillmer, PhD***
 
@@ -74,17 +76,21 @@ This lecture introduces ‘classical’ single voxel in vivo MRS sequences witho
 
 Introduction to key factors for high quality MRS data with artifact free signal and separated and well-defined peaks. High quality data can be achieved with a homogenous B0 (external) magnetic field, adequate signal to noise, and high spectral resolution. A discussino of B0 inhomogeneity is also included. Spectral quality factors are reviewed including (1) shimming, (2) signal-to-noise ratio (SNR), (3) water-suppression, (4) spectral-resolution, (5) improving artifacts due to signal from outside the voxel, and (6) motion correction. The overall workflow for optimal spectral quality is also described including, anatomical imaging for voxel placement, reference voltage B0 shim (1-5 minutes), quality check (1minute), and MRS acquisition.
 
-### MRS Postprocessing & Quantification (Slide)[https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/L4-Postprocessing%26Quantification_Oeltzschner.pdf]
+### MRS Postprocessing & Quantification 
+
+(Slide)[https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/L4-Postprocessing%26Quantification_Oeltzschner.pdf]
 
 ***Georg Oeltzschner, PhD***
 
 ```Intermediate```
 
-```Keywords:``` *Preprocessing*, *visualization*, *modeling*, *quantification*, *quality assessment*, *software
+```Keywords:``` *Preprocessing*, *visualization*, *modeling*, *quantification*, *quality assessment*, *software*
 
 Introduction of pre- and post-processing techniques in MRS. MRS data analysis workflow, from raw data export to report generation, is described including considerations such as sequence developer, software version, and acquisition parameters. MRS data analysis steps are explained including preprocessing, visualization, modeling, quantification, and quality assessment. Finally, introduction and comparison of MRS software is provided, including LCModel, jMRUI, TARQUIN, Vespa, FID-A, Gannet, INSPECTOR, Osprey, Spant, and FSL-MRS.
 
-### Understanding NMR Spectroscopy (Book)[https://www.repository.cam.ac.uk/bitstream/handle/1810/257040/Keeler-2002-Understanding_NMR_Spectroscopy.pdf?sequence=1]
+### Understanding NMR Spectroscopy 
+
+(Book)[https://www.repository.cam.ac.uk/bitstream/handle/1810/257040/Keeler-2002-Understanding_NMR_Spectroscopy.pdf?sequence=1]
 
 ***James Keeler***
 
@@ -169,7 +175,7 @@ A slide about a specific pulse sequence INEPT. This slide briefly introduces mai
 
 - ```The Basics of MRI``` by Hornak with nice animations, intended for beginners. [Online book](https://www.cis.rit.edu/htbooks/mri/)
 
--```
+
 
 
 
