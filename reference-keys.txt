@@ -8,5 +8,5 @@ selected-books-for-mri-nmr
 selected-papers-for-mri
 web-links
 mrs
-summary-for-mrs-educational-materials
+online-library-for-mrs-educational-materials
 introduction-to-mrs
