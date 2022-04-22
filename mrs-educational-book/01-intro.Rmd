@@ -1,53 +1,94 @@
-# Getting started with MRS: A digital collection of community-sourced educational materials
+# Getting started with MRI
 
-In 2021, the Committee for Code & Data Sharing, a standing committee of the MR Spectroscopy (MRS) Study Group within the International Society for Magnetic Resonance in Medicine (ISMRM), set out to compile and curate educational materials related to MRS. Our goal was to develop a centralized resource of MRS-related materials that is freely available, annotated, and updated often. While a plethora of MRS resources exist, these can be difficult to navigate for newcomers to the field. This e-book contains a glossary and summaries written with college-level students in mind, and educational materials were provided by the global MRS community. The first edition of this collection was debuted at the 2022 ISMRM Annual Meeting in London, England, and we hope researchers will continue to contribute new educational content and material. We encourage this resource to be shared widely with students, collaborators, and colleagues who are interested in learning more about MRS and welcome any feedback and future contributions.
+## MRI Study Material List
 
-For feedback and contributions:
+**_Acroyms:_**
 
-***Email:*** Candace Fleischer, fleischerlab@gmail.com 
+```
+NMR = Nuclear Magnetic Resonance
+MRI = Magnetic Resonance Imaging
+MRS = Magnetic Resonance Spectroscopy
+```
 
-[Post on the MRSHub Forum:]( https://forum.mrshub.org/ )
+## Selected books for MRI & NMR
 
-### Editors
+- R.W. Brown, Y.-C.N. Cheng, E.M. Haacke, M.R. Thompson, and R.Venkatesan  `Magnetic Resonance Imaging: Physical Principles and Sequence Design`, New York: J. Wiley & Sons, c1999; 2ndEdition,2014
 
-Candace Fleischer and Georg Oeltzschner
+  (excellent text that balances mathematical strictness and physics concepts with intuitionaland technical explanations!!! specific topics, such as fast spin echo, are treated toa lesser extent than desirable; only a few pages about MR spectroscopy)
 
-### Authors and Co-Editors
+- M.A. Bernstein, K.F. Kingand X.J.Zhou `Handbook of MRI Pulse Sequences`,Academic Press,2004
 
-Georgios Batsios
+  (outstanding coverage of MR imaging pulse sequences and their various elements, such as radiofrequency(RF)pulses and gradients)
 
-Sevim Cengiz
+- D.W. McRobbie, E.A. Moore, M.J. Graves and M.R. Prince `MRI From Proton to Picture`, Cambridge University Press, 2ndEdition, 2006 
 
-Cristina Cudalbu
+  (comprehensive introduction to the basics of MR practice and theory; very comprehendible and with superb illustrations;one chapter about MR spectroscopy)
 
-Samual Guay
+- M.T. Vlaardingerbroek and J.A. de Boer  `Magnetic resonance imaging: theory and practice`, New York: Springer, 1999
 
-Sunita Gudwani
+  (very good book, though not thought for someone, who makes his/her first acquaintance with MRI (as is also stated in its preface; some common nomenclature with Haacke's book))
 
-John LaMaster
+- R.H. Hashemi `MRI: The Basics`, Baltimore: Williams & Wilkins, c1997
 
-Alexandra Lipka
+  very introductory text that summarizes most important concepts of MRI; a suitable tool to obtain a first overview of MRI principles, but does not provide in-depth insight)
 
-Rudy Rizzo
+- V. L. Kuperman `Magnetic Resonance Imaging: Physical Principles and Applications`,San Diego : Academic, c2000 (intended as a text/reference for students, researchers, and professors interested in physical and biomedical applications of MRI)
 
-Dongsuk Sung
+- P. Mansfield and P.G. Morris `NMR Imaging in Biomedicine`,New York: Academic Press, 1982 
 
-Edith Valle
+  (classic textbook with elegant treatment of NMR techniques, though too involved for a beginner.
 
-### Educational content provided by
+- A. Abragam `The Principles of Nuclear Magnetism`, Oxford, 1961 
 
-Cristina Cudalbu
+  (standard text for quantum mechanical treatment of nuclear magnetism; requires good knowledge of quantum mechanics)
 
-Ulrike Dydak
+## Selected papers for MRI
 
-Matthew Erikson
+- One of the first papers about the basic concepts of NMR:[^1]
+- A good introduction to basic NMR signal detection:[^2]
+- The fundamental concept of an echo is introduced in:[^3]
+- Basic k-space concepts are discussed in:[^4]
+- The alternate phase encoding scheme for Fourier imaging was introduced in:[^5]
+- A theory of small tip-angle approximation of viewing slice selection in k-space was developed in:[^6]
+- Superb and detailed review of the fast spin echo (FSE) sequence together with an introduction to MRI:[^7]
+- Fast gradient echo imaging is discussed in:[^8]
+- Overview of contrast and resolution in MRI:[^9]
 
-Ariane Filmer
+_References_
 
-Hermien Kan
+1. F. Bloch, “Nuclear induction,” Physical Review, vol. 70, pp. 460-74, 1946.
+2. W. S. Hinshaw and A. H. Lent, “An introduction to NMR imaging: From the Bloch equation to the imaging equation,” Proceedings of the IEEE, vol. 71, pp. 338-50, 1982.
+3. E. L. Hahn, “Spin Echoes,” Physical Review, vol. 80, pp. 580, 1950.
+4. D. B. Twieg, “The k-trajectory formulation of the NMR imaging process with applications in analysis and synthesis of imaging methods,” Medical Physics, vol. 10, pp. 610-21, 1983.
+5. A. Kumar, D. Welti, and R. R. Ernst, “NMR Fourier Zeugmatography,” Journal of Magnetic Resonance, vol. 18, pp. 69-83, 1975.
+6. J. Pauly, D. Nishimura, and A. Macovski, “A k-space analysis of small tip angle excitation,” Journal of Magnetic Resonance, vol. 81, pp. 43-56, 1989.
+7. J. Listerud, S. Einstein, E. Outwater, and H. Y. Kressel, “First principles of fast spin echo,” Magnetic Resonance Quarterly, vol. 8, pp. 199-244, 1992
+8. P. van der Meulen, J. P. Groen, and J. J. Cuppen, “Very fast MR imaging by field echoes and small angle excitation,” Magnetic Resonance Imaging, vol. 3, pp. 297-9, 1985.
+9. R. T. Constable and R. M. Henkelman, “Contrast, resolution, and detectability in MR imaging,” Journal of Computer Assisted Tomography, vol. 15, pp. 297-303, 1991.
 
-Ralf Mekle
+## Web links
 
-Georg Oeltzschner
+**Here are some web links that lead to tutorials or introductory material for MRI& MRS:**
 
-ISMRM MRS Study Group
+- https://www.cis.rit.edu/htbooks/mri/ 
+
+  (online book `The Basics of MRI` by Hornak with nice animations, intended for beginners)
+
+- https://www.cis.rit.edu/htbooks/nmr/ 
+
+  (online book `The Basics of NMR` by Hornak with nice animations, intended for beginners)
+
+- http://www.mritutor.org/mritutor/ 
+
+  (Introduction to MRI)
+
+- http://www.simplyphysics.com/ 
+
+  (MRI Physics put simply; some links to educational topics about MRI, e.g. MRI basics text)
+
+- http://www.users.on.net/~spinupdownunder/spectroscopy/MRS.htm 
+
+  (Adelaide web site for MR spectroscopy)
+
+
+
