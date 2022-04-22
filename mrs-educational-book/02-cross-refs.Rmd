@@ -1,4 +1,43 @@
-# Getting started with MRS
+# MRS
+
+## Summary for MRS Educational Materials
+
+### Introduction to MRS
+
+- ***Ulrike Dydak*** [Video]() ```Beginner```
+
+```Keywords:``` *chemical shift*, *J-coupling*, *relaxation*, *magnetic field strength*
+
+Introduction to basic principles behind MRS including chemical shift, J-coupling, line (peak) splitting, and chemical structure. The importance of shimming, effects of echo time and repetition time, and the effect of external field strength (B0) are also explained.
+
+### Skeletal Muscle MR Spectroscopy at High Field
+
+- ***Hermien Kan*** [Slide]() ```Advanced```
+
+```Keywords:``` *skeletal muscle*, *1H spectroscopy*, *31P spectroscopy*, *high field*
+
+Introduction to muscle architecture and related application of MRS. A review of 1H MRS muscle spectra with focus on IMCL (Intra-), EMCL (Extra-) -myocellular lipid content, carnitine and carnosine. 31P MRS muscle spectra are also discussed including muscle metabolism and muscular dystrophy.
+
+### Skeletal muscle MR spectroscopy in neuromuscular disease
+- ***Hermien Kan*** [Slide]() ```Advanced```
+
+```Keywords:``` *neuromuscular disease*, *skeletal muscle damage*, *energy metabolism*
+
+Introduction to muscular damage and disease with a focus on 31P MRS and utility in diagnosis. Static MRS markers are reviewed, e.g., pH, phosphocreatine, inorganic phosphate, etc, as well as dynamic MRS acquired during exercise.
+
+### NeuroMET Virtual MR Spectroscopy Workshop 
+
+#### Basics of MR Spectroscopy 
+
+- ***Ariane Fillmer, PhD*** [Slide]() ```Beginner```
+
+```Keywords:``` *spectroscopy*, *chemical shift*, *J-coupling*, *MRS in diagnosis*
+
+Introduction to MR signal generation, signal conversion to images, and Fourier transform. Lecture focuses on how MR spectroscopy is different from MR imaging, followed by detailed explanations of chemical shift and J-coupling. Lastly, an introduction to the clinical application of MRS as a diagnostic tool for brain tumors, multiple sclerosis, and schizophrenia is provided.
+
+
+
+
 
 ## Selected Books for MRS, MRI & NMR
 

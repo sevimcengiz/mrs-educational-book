@@ -1,4 +1,4 @@
-# Getting started with MRI
+# MRI
 
 ## MRI Study Material List
 
