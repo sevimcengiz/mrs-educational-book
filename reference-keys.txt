@@ -15,7 +15,10 @@ mrs-workshop
 nmr-spectroscopy-course
 presentations
 mrs-study-material-list
-sharing-your-book
-publishing
-pages
-metadata-for-sharing
+mrs-and-nmr-glossary
+introduction-and-fundamentals
+nmr-signal-and-spectra
+nmr-experiment-and-hardware
+pre-processing
+analysis
+additional-mri-glossaries
