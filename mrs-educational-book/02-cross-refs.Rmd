@@ -153,7 +153,7 @@ This chapter is concerned with the two methods used in multiple pulse NMR to sel
 
 #### Coupling Constants 
 
-*** Eugene E. Kwan***
+***Eugene E. Kwan***
 
 ```Advanced```
 
