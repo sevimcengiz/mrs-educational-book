@@ -1,4 +1,5 @@
 foreword
+a-digital-collection-of-community-sourced-educational-materials
 editors
 authors-and-co-editors
 educational-content-provided-by
@@ -42,4 +43,3 @@ pre-processing
 analysis
 additional-mri-glossaries
 mrs-software-code
-mrs-software-code-1
