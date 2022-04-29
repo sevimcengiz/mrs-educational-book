@@ -1,5 +1,5 @@
 --- 
-title: "Getting started with MRS: A digital collection of community-sourced educational materials"
+title: ""
 author: " "
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -15,9 +15,9 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# 
+# Getting started with MRS: A digital collection of community-sourced educational materials
 
-### Foreword 
+## Foreword 
 
 __A digital collection of community-sourced educational materials__
 
@@ -31,61 +31,61 @@ For feedback and contributions:
 
 __Editors__ 
 
-Candace Fleischer 
-Emory University School of Medicine, Atlanta, Georgia, United States
+Candace Fleischer -  
+Emory University School of Medicine, Atlanta, Georgia, United States <br>
 fleischerlab@gmail.com 
-[![Twitter URL](https://twitter.com/fleischer_lab?lang=en)](https://twitter.com/fleischer_lab)
+[![Twitter URL](https://www.google.com/imgres?imgurl=https%3A%2F%2Fabout.twitter.com%2Fcontent%2Fdam%2Fabout-twitter%2Fen%2Fbrand-toolkit%2Fbrand-download-img-1.jpg.twimg.1920.jpg&imgrefurl=https%3A%2F%2Fabout.twitter.com%2Fen%2Fwho-we-are%2Fbrand-toolkit&tbnid=rIAyQXgMXI27QM&vet=12ahUKEwj4tMKB0bj3AhUFZxoKHa6iARkQMygBegUIARDdAQ..i&docid=IYAmNP8TJ3_e2M&w=660&h=656&q=twitter%20logo&client=safari&ved=2ahUKEwj4tMKB0bj3AhUFZxoKHa6iARkQMygBegUIARDdAQ)](https://twitter.com/fleischer_lab)
 
-&
 
-Georg Oeltzschner 
-Johns Hopkins University, Baltimore, MD, United States
+Georg Oeltzschner - 
+Johns Hopkins University, Baltimore, MD, United States <br>
 goeltzs1@jhmi.edu 
-[![Twitter URL](https://twitter.com/oeltzschner)](https://twitter.com/oeltzschner)
+[![Twitter URL](https://www.google.com/imgres?imgurl=https%3A%2F%2Fabout.twitter.com%2Fcontent%2Fdam%2Fabout-twitter%2Fen%2Fbrand-toolkit%2Fbrand-download-img-1.jpg.twimg.1920.jpg&imgrefurl=https%3A%2F%2Fabout.twitter.com%2Fen%2Fwho-we-are%2Fbrand-toolkit&tbnid=rIAyQXgMXI27QM&vet=12ahUKEwj4tMKB0bj3AhUFZxoKHa6iARkQMygBegUIARDdAQ..i&docid=IYAmNP8TJ3_e2M&w=660&h=656&q=twitter%20logo&client=safari&ved=2ahUKEwj4tMKB0bj3AhUFZxoKHa6iARkQMygBegUIARDdAQ)](https://twitter.com/oeltzschner)
 
  
 __Authors and Co-Editors__ 
 
-Georgios Batsios
+Georgios Batsios - 
+Department of Radiology and Biomedical Imaging, University of California San Francisco, San Francisco, CA, USA <br>
 georgios.batsios@ucsf.edu
-Department of Radiology and Biomedical Imaging, University of California San Francisco, San Francisco, CA, USA 
 
-Sevim Cengiz 
+Sevim Cengiz - 
+Mohamed Bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE - 
+Bogazici University, Istanbul, Turkey <br>
 sevim_cengiz@icloud.com
-Mohamed Bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE
-Bogazici University, Istanbul, Turkey
-[![Twitter URL](https://twitter.com/siimcengiz)](https://twitter.com/siimcengiz)
+[![Twitter URL](https://www.google.com/imgres?imgurl=https%3A%2F%2Fabout.twitter.com%2Fcontent%2Fdam%2Fabout-twitter%2Fen%2Fbrand-toolkit%2Fbrand-download-img-1.jpg.twimg.1920.jpg&imgrefurl=https%3A%2F%2Fabout.twitter.com%2Fen%2Fwho-we-are%2Fbrand-toolkit&tbnid=rIAyQXgMXI27QM&vet=12ahUKEwj4tMKB0bj3AhUFZxoKHa6iARkQMygBegUIARDdAQ..i&docid=IYAmNP8TJ3_e2M&w=660&h=656&q=twitter%20logo&client=safari&ved=2ahUKEwj4tMKB0bj3AhUFZxoKHa6iARkQMygBegUIARDdAQ)](https://twitter.com/siimcengiz)
 
-Cristina Cudalbu
+Cristina Cudalbu - 
+CIBM MRI EPFL, Switzerland <br> 
 cristina.cudalbu@epfl.ch
-CIBM MRI EPFL, Switzerland  
 
-Samual Guay 
+
+Samual Guay <br>
 samuel.guay@umontreal.ca
 
-Sunita Gudwani
+Sunita Gudwani <br>
 sunitag78@gmail.com 
 
-John LaMaster
+John LaMaster - 
+Technical University of Munich -
+The University of Zurich <br>
 jlamaste@gmail.com
-Technical University of Munich 
-The University of Zurich
-[![Twitter URL](https://twitter.com/johntlamaster)](https://twitter.com/johntlamaster)
+[![Twitter URL](https://www.google.com/imgres?imgurl=https%3A%2F%2Fabout.twitter.com%2Fcontent%2Fdam%2Fabout-twitter%2Fen%2Fbrand-toolkit%2Fbrand-download-img-1.jpg.twimg.1920.jpg&imgrefurl=https%3A%2F%2Fabout.twitter.com%2Fen%2Fwho-we-are%2Fbrand-toolkit&tbnid=rIAyQXgMXI27QM&vet=12ahUKEwj4tMKB0bj3AhUFZxoKHa6iARkQMygBegUIARDdAQ..i&docid=IYAmNP8TJ3_e2M&w=660&h=656&q=twitter%20logo&client=safari&ved=2ahUKEwj4tMKB0bj3AhUFZxoKHa6iARkQMygBegUIARDdAQ)](https://twitter.com/johntlamaster)
 
-Alexandra Lipka
+Alexandra Lipka - 
+High Field MR Centre, Department of Biomedical Imaging and Image-guided Therapy, Medical University of Vienna, Vienna, Austria <br>
 alexandra.lipka@meduniwien.ac.at
-High Field MR Centre, Department of Biomedical Imaging and Image-guided Therapy, Medical University of Vienna, Vienna, Austria
 
-Rudy Rizzo
+Rudy Rizzo - 
+University Hospital Bern, Switzerland <br>
 rudy.rizzo@insel.ch
-University Hospital Bern, Switzerland
 
-Dongsuk Sung
+Dongsuk Sung <br>
 dong.suk.sung@emory.edu 
 
-Edith Touchet-Valle
+Edith Touchet-Valle - 
+Texas A&M Universit <br>
 edithvvalle@tamu.edu
-Texas A&M Universit 
  
 __Educational content provided by__ 
 
