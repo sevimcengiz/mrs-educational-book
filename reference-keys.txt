@@ -8,13 +8,10 @@ web-links
 mrs
 online-library-for-mrs-educational-materials
 introduction-to-mrs
-skeletal-muscle-mr-spectroscopy-at-high-field
-skeletal-muscle-mr-spectroscopy-in-neuromuscular-disease
-neuromet-virtual-mr-spectroscopy-workshop
 basics-of-mr-spectroscopy
+mrs-postprocessing-quantification
 localization-methods
 calibration-workflow
-mrs-postprocessing-quantification
 understanding-nmr-spectroscopy
 overview
 nmr-and-energy-levels
@@ -27,6 +24,8 @@ relaxation
 phase-cycling-and-gradient-pulses
 coupling-constants
 insensitive-nuclei-enhanced-by-polarization-transfer-inept
+skeletal-muscle-mr-spectroscopy-at-high-field
+skeletal-muscle-mr-spectroscopy-in-neuromuscular-disease
 web-links-1
 video-links
 mrs-workshop-2018
