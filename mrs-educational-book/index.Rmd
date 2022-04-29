@@ -31,13 +31,13 @@ For feedback and contributions:
 
 __Editors__ 
 
-Candace Fleischer -  
+<u>Candace Fleischer </u>-  
 Emory University School of Medicine, Atlanta, Georgia, United States <br>
 fleischerlab@gmail.com 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fleischer_lab.svg?style=social&label=Follow%20%40fleischer_lab)](https://twitter.com/fleischer_lab)
 
 
-Georg Oeltzschner - 
+<u>Georg Oeltzschner </u> - 
 Johns Hopkins University, Baltimore, MD, United States <br>
 goeltzs1@jhmi.edu 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/oeltzschner.svg?style=social&label=Follow%20%40oeltzschner)](https://twitter.com/oeltzschner)
@@ -45,51 +45,51 @@ goeltzs1@jhmi.edu
  
 __Authors and Co-Editors__ 
 
-Georgios Batsios - 
+<u>Georgios Batsios </u> - 
 Department of Radiology and Biomedical Imaging, University of California San Francisco, San Francisco, CA, USA <br>
 georgios.batsios@ucsf.edu
 
-Sevim Cengiz - 
+<u>Sevim Cengiz </u> - 
 Mohamed Bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE - 
 Bogazici University, Istanbul, Turkey <br>
 sevim_cengiz@icloud.com
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/siimcengiz.svg?style=social&label=Follow%20%40siimcengiz)](https://twitter.com/siimcengiz)
 
-Cristina Cudalbu - 
+<u>Cristina Cudalbu </u>- 
 CIBM MRI EPFL, Switzerland <br> 
 cristina.cudalbu@epfl.ch
 
 
-Samual Guay <br>
+<u>Samual Guay </u><br>
 samuel.guay@umontreal.ca
 
-Sunita Gudwani <br>
+<u>Sunita Gudwani </u> <br>
 sunitag78@gmail.com 
 
-John LaMaster - 
+<u>John LaMaster </u>- 
 Technical University of Munich -
 The University of Zurich <br>
 jlamaste@gmail.com
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/johntlamaster.svg?style=social&label=Follow%20%40johntlamaster)](https://twitter.com/johntlamaster)
 
-Alexandra Lipka - 
+<u>Alexandra Lipka </u> - 
 High Field MR Centre, Department of Biomedical Imaging and Image-guided Therapy, Medical University of Vienna, Vienna, Austria <br>
 alexandra.lipka@meduniwien.ac.at
 
-Rudy Rizzo - 
+<u>Rudy Rizzo </u>- 
 University Hospital Bern, Switzerland <br>
 rudy.rizzo@insel.ch
 
-Dongsuk Sung <br>
+<u>Dongsuk Sung </u> <br>
 dong.suk.sung@emory.edu 
 
-Edith Touchet-Valle - 
+<u>Edith Touchet-Valle </u>- 
 Texas A&M Universit <br>
 edithvvalle@tamu.edu
  
 __Educational content provided by__ 
 
-Cristina Cudalbu 
+<Cristina Cudalbu 
 
 Ulrike Dydak 
 
