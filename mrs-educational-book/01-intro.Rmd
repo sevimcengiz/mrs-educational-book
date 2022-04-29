@@ -14,61 +14,69 @@ MRS = Magnetic Resonance Spectroscopy
 
 ***Magnetic Resonance Imaging: Physical Principles and Sequence Design***
 
-[Book](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118633953)
+[Book](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118633953) ```RW Brown, YCN Cheng, EM Haacke, MR Thompson, R Venkatesan```
 
   - Excellent text that balances mathematical strictness and physics concepts with intuitionaland technical explanations. Specific topics, such as fast spin echo, are treated toa lesser extent than desirable; only a few pages about MR spectroscopy
 
 ***Handbook of MRI Pulse Sequences*** 
 
-[Book](https://www.sciencedirect.com/book/9780120928613/handbook-of-mri-pulse-sequences)
+[Book](https://www.sciencedirect.com/book/9780120928613/handbook-of-mri-pulse-sequences) ```MA Bernstein, KF King and XJ Zhou```
 
  - Outstanding coverage of MR imaging pulse sequences and their various elements, such as radiofrequency (RF) pulses and gradients
 
 ***MRI from Proton to Picture***
 
-[Book](https://www.cambridge.org/core/books/mri-from-picture-to-proton/3ADC814FF8FC6A78A54D37746F806D5A)
+[Book](https://www.cambridge.org/core/books/mri-from-picture-to-proton/3ADC814FF8FC6A78A54D37746F806D5A) ```DW McRobbie, EA Moore, MJ Graves, MR Prince```
 
   - Comprehensive introduction to the basics of MR practice and theory; very comprehendible and with superb illustrations; one chapter about MR spectroscopy
 
 ***Magnetic Resonance Imaging: Theory and Practice***  
 
-[Book](https://www.amazon.com/Magnetic-Resonance-Imaging-Theory-Practice/dp/3642078230)
+[Book](https://www.amazon.com/Magnetic-Resonance-Imaging-Theory-Practice/dp/3642078230) ```MT Vlaardingerbroek, JA den Boer```
 
   - Very good book, though not thought for someone, who makes his/her first acquaintance with MRI (as is also stated in its preface; some common nomenclature with Haacke's book)
 
 ***MRI: The Basics***
 
-[Book](https://www.amazon.com/MRI-Ray-Hashman-Hashemi-PhD/dp/1608311155)
+[Book](https://www.amazon.com/MRI-Ray-Hashman-Hashemi-PhD/dp/1608311155) ```RH Hashemi, WG Bradley, CJ Lisanti```
 
   - Very introductory text that summarizes most important concepts of MRI; a suitable tool to obtain a first overview of MRI principles, but does not provide in-depth insight
 
 ***Magnetic Resonance Imaging: Physical Principles and Applications***
 
-[Book](https://www.amazon.com/Magnetic-Resonance-Imaging-Principles-Applications/dp/0123886651)
+[Book](https://www.amazon.com/Magnetic-Resonance-Imaging-Principles-Applications/dp/0123886651) ```V Kuperman```
 
 ***NMR Imaging in Biomedicine***
 
-[Book](https://books.google.ae/books/about/NMR_Imaging_in_Biomedicine.html?id=QLBqAAAAMAAJ&redir_esc=y)
+[Book](https://books.google.ae/books/about/NMR_Imaging_in_Biomedicine.html?id=QLBqAAAAMAAJ&redir_esc=y) ``PG Morris, P Mansfield```
 
-  -Classic textbook with elegant treatment of NMR techniques, though too involved for a beginner.
+  - Classic textbook with elegant treatment of NMR techniques, though too involved for a beginner.
 
 ***The Principles of Nuclear Magnetism***
 
-[Book](https://books.google.ae/books?id=9M8U_JK7K54C&printsec=frontcover&dq=The+Principles+of+Nuclear+Magnetism+english!&hl=en&sa=X&ved=2ahUKEwiarMPppKj3AhVARPEDHRYjCf4Q6AF6BAgJEAI#v=onepage&q&f=false)
+[Book](https://books.google.ae/books?id=9M8U_JK7K54C&printsec=frontcover&dq=The+Principles+of+Nuclear+Magnetism+english!&hl=en&sa=X&ved=2ahUKEwiarMPppKj3AhVARPEDHRYjCf4Q6AF6BAgJEAI#v=onepage&q&f=false) ```A Abragam```
 
-  -Standard text for quantum mechanical treatment of nuclear magnetism; requires good knowledge of quantum mechanics)
+  - Standard text for quantum mechanical treatment of nuclear magnetism; requires good knowledge of quantum mechanics)
 
 ## Selected Papers
 
-- One of the first papers about the basic concepts of NMR:<sup>1
-- A good introduction to basic NMR signal detection:<sup>2
-- The fundamental concept of an echo is introduced in:<sup>3
-- Basic k-space concepts are discussed in:<sup>4
-- The alternate phase encoding scheme for Fourier imaging was introduced in:<sup>5
-- A theory of small tip-angle approximation of viewing slice selection in k-space was developed in:<sup>6
-- Superb and detailed review of the fast spin echo (FSE) sequence together with an introduction to MRI:<sup>7
-- Fast gradient echo imaging is discussed in:<sup>8
-- Overview of contrast and resolution in MRI:<sup>9
+- One of the first papers about the basic concepts of NMR:<sup>1 ```F Bloch, Nuclear induction``` 
+
+- A good introduction to basic NMR signal detection:<sup>2 ```WS Hinshaw and AH Lent, An introduction to NMR imaging: From the Bloch equation to the imaging equation```
+
+- The fundamental concept of an echo is introduced in:<sup>3 ```EL Hahn, Spin Echoes```
+
+- Basic k-space concepts are discussed in:<sup>4 ```DB Twieg, The k-trajectory formulation of the NMR imaging process with applications in analysis and synthesis of imaging methods```
+
+- The alternate phase encoding scheme for Fourier imaging was introduced in:<sup>5 ```A Kumar, D Welti, and RR Ernst, “NMR Fourier Zeugmatography```
+
+- A theory of small tip-angle approximation of viewing slice selection in k-space was developed in:<sup>6 ```J Pauly, D Nishimura, and A Macovski, “A k-space analysis of small tip angle excitation```
+
+- Superb and detailed review of the fast spin echo (FSE) sequence together with an introduction to MRI:<sup>7 ```J Listerud, S Einstein, E Outwater, and HY Kressel, First principles of fast spin echo```
+
+- Fast gradient echo imaging is discussed in:<sup>8 ```P van der Meulen, JP Groen, and JJ Cuppen, Very fast MR imaging by field echoes and small angle excitation```
+
+- Overview of contrast and resolution in MRI:<sup>9 ```RT Constable and RM Henkelman, Contrast, resolution, and detectability in MR imaging```
 
 _References_
 
