@@ -131,7 +131,7 @@ A number of excellent and comprehensive glossaries are currently available for b
 
 ***Line Shapes:*** For spectroscopy data, there are three line shape profiles that describe the spectral peaks: Lorentzian, Gaussian, and Voigt. 
 
-	-  Lorentzian Line Shapes: These are generally rather narrow line shapes. This means that their full-width half-maximum is generally small. While being narrow is desirable, they also decay rather quickly through time. The Lorentzian term is defined as exp(+t/T2*).
+	- Lorentzian Line Shapes: These are generally rather narrow line shapes. This means that their full-width half-maximum is generally small. While being narrow is desirable, they also decay rather quickly through time. The Lorentzian term is defined as exp(+t/T2*).
 
 	- Gaussian Line Shapes: These peaks tend to be broader than Lorentzian peaks, but decay more slowly. This term is defined as exp(-t2/TG2).
 
