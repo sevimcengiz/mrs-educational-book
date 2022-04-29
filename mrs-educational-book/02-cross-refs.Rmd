@@ -18,34 +18,7 @@ Video
 ***Ulrike Dydak*** 
 
 
-### Skeletal Muscle MR Spectroscopy at High Field
-
-```Advanced```
-
-```Keywords:``` *skeletal muscle*, *1H spectroscopy*, *31P spectroscopy*, *high field*
-
-Introduction to muscle architecture and related application of MRS. A review of 1H MRS muscle spectra with focus on IMCL (Intra-), EMCL (Extra-) -myocellular lipid content, carnitine and carnosine. 31P MRS muscle spectra are also discussed including muscle metabolism and muscular dystrophy.
-
-[Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/high%20field%20workshop%20Heidelberg%20Kan.pdf) 
-
-***Hermien Kan*** 
-
-### Skeletal Muscle MR Spectroscopy in Neuromuscular Disease
-
-```Advanced```
-
-```Keywords:``` *neuromuscular disease*, *skeletal muscle damage*, *energy metabolism*
-
-Introduction to muscular damage and disease with a focus on 31P MRS and utility in diagnosis. Static MRS markers are reviewed, e.g., pH, phosphocreatine, inorganic phosphate, etc, as well as dynamic MRS acquired during exercise.
-
-[Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/MRS%20in%20neuromuscular%20disease%20Inspector.pdf) 
-
-***Hermien Kan*** 
-
-
-### NeuroMET Virtual MR Spectroscopy Workshop 
-
-#### Basics of MR Spectroscopy 
+### Basics of MR Spectroscopy 
 
 ```Beginner```
 
@@ -56,6 +29,18 @@ Introduction to MR signal generation, signal conversion to images, and Fourier t
 [Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/L1-BasicsOfMRS_Fillmer.pdf) 
 
 ***Ariane Fillmer, PhD*** 
+
+### MRS Postprocessing & Quantification 
+
+```Intermediate```
+
+```Keywords:``` *Preprocessing*, *visualization*, *modeling*, *quantification*, *quality assessment*, *software*
+
+Introduction of pre- and post-processing techniques in MRS. MRS data analysis workflow, from raw data export to report generation, is described including considerations such as sequence developer, software version, and acquisition parameters. MRS data analysis steps are explained including preprocessing, visualization, modeling, quantification, and quality assessment. Finally, introduction and comparison of MRS software is provided, including LCModel, jMRUI, TARQUIN, Vespa, FID-A, Gannet, INSPECTOR, Osprey, Spant, and FSL-MRS.
+
+[Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/L4-Postprocessing%26Quantification_Oeltzschner.pdf)
+
+***Georg Oeltzschner, PhD***
 
 #### Localization Methods 
 
@@ -81,17 +66,6 @@ Introduction to key factors for high quality MRS data with artifact free signal 
 
 ***Ariane Fillmer, PhD***
 
-### MRS Postprocessing & Quantification 
-
-```Intermediate```
-
-```Keywords:``` *Preprocessing*, *visualization*, *modeling*, *quantification*, *quality assessment*, *software*
-
-Introduction of pre- and post-processing techniques in MRS. MRS data analysis workflow, from raw data export to report generation, is described including considerations such as sequence developer, software version, and acquisition parameters. MRS data analysis steps are explained including preprocessing, visualization, modeling, quantification, and quality assessment. Finally, introduction and comparison of MRS software is provided, including LCModel, jMRUI, TARQUIN, Vespa, FID-A, Gannet, INSPECTOR, Osprey, Spant, and FSL-MRS.
-
-[Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/L4-Postprocessing%26Quantification_Oeltzschner.pdf)
-
-***Georg Oeltzschner, PhD***
 
 ### Understanding NMR Spectroscopy 
 
@@ -171,6 +145,38 @@ This is an expert level lecture about coupling constants. This lecture trying to
 A slide about a specific pulse sequence INEPT. This slide briefly introduces main interactions in solution NMR (the chemical shift and the J coupling), and then explains about concepts of spin echo sequence and decoupling. They combined the spin echo and decoupling and tried some theoretical experiments.
 
 [Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/presentation_INEPT_MRS_sequence.pdf)
+
+
+
+
+
+
+
+
+
+### Skeletal Muscle MR Spectroscopy at High Field
+
+```Advanced```
+
+```Keywords:``` *skeletal muscle*, *1H spectroscopy*, *31P spectroscopy*, *high field*
+
+Introduction to muscle architecture and related application of MRS. A review of 1H MRS muscle spectra with focus on IMCL (Intra-), EMCL (Extra-) -myocellular lipid content, carnitine and carnosine. 31P MRS muscle spectra are also discussed including muscle metabolism and muscular dystrophy.
+
+[Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/high%20field%20workshop%20Heidelberg%20Kan.pdf) 
+
+***Hermien Kan*** 
+
+### Skeletal Muscle MR Spectroscopy in Neuromuscular Disease
+
+```Advanced```
+
+```Keywords:``` *neuromuscular disease*, *skeletal muscle damage*, *energy metabolism*
+
+Introduction to muscular damage and disease with a focus on 31P MRS and utility in diagnosis. Static MRS markers are reviewed, e.g., pH, phosphocreatine, inorganic phosphate, etc, as well as dynamic MRS acquired during exercise.
+
+[Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/MRS%20in%20neuromuscular%20disease%20Inspector.pdf) 
+
+***Hermien Kan*** 
 
 ## Web links
 
