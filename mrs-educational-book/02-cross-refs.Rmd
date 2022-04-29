@@ -217,7 +217,59 @@ Course includes 56 videos starting with the basics of NMR physics, signal genera
 - [MR Hardware - Magnets:](https://www.youtube.com/watch?v=mb1JCKdssLE&list=PL471uBfQUs9qcODBkQGJTZkcblIKrjKry&index=9&ab_channel=BasicsOfInVivoNMR)
 
 - [MR Hardware - Magnetic Field Gradients:](https://www.youtube.com/watch?v=wbaJmTX0mG0&list=PL471uBfQUs9qcODBkQGJTZkcblIKrjKry&index=10&ab_channel=BasicsOfInVivoNMR) 
- 
+
+
+## Selected Books 
+
+
+```In Vivo NMR Spectroscopy: Principles and Techniques```
+
+***R.A. de Graaf, John Wiley & Sons Ltd.,ThirdEdition, 2018***
+
+It is a comprehensive and comprehendible overview of in vivo MR spectroscopy techniques; very extensive treatment of radiofrequency (RF) pulses including adiabatic RF pulses; probably the reference as a textbook for MRS
+
+[Link](https://www.wiley.com/en-ae/In+Vivo+NMR+Spectroscopy%3A+Principles+and+Techniques%2C+3rd+Edition-p-9781119382515)
+
+
+```Clinical MR Spectroscopy:Techniques and Applications```
+
+***P.B. Barker, A. Bizzi, N. De Stefano, R.Gullapalli, and D.D.M. Lin, Cambridge University Press,2010***
+
+It describes the underlying physical principles of MRS and provides a perceptive review of clinical MRS applications.
+
+[Link](https://www.cambridge.org/ae/academic/subjects/medicine/medical-imaging/clinical-mr-spectroscopy-techniques-and-applications?format=HB&isbn=9780521868983)
+
+```Magnetic Resonance Imaging: Physical Principles and Sequence Design```
+
+***R.W. Brown, Y.-C.N. Cheng, E.M. Haacke, M.R. Thompson, and R.Venkatesan, New York: J. Wiley & Sons, c1999; 2ndEdition,2014***
+
+It is an excellent text that balances mathematical strictness and physics concepts with intuitional and technical explanations; specific topics, such as fast spin echo, are treated to a lesser extent than desirable; there are only a few pages about MR spectroscopy.
+
+[Link](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118633953)
+
+```MRI From Proton to Picture```
+
+***D.W. McRobbie, E.A. Moore, M.J. Graves and M.R. Prince,Cambridge University Press, 2ndEdition, 2006***
+
+It has a comprehensive introduction to the basics of MR practice and theory; very comprehendible and with superb illustrations; one chapter about MR spectroscopy.
+
+[Link](https://www.cambridge.org/core/books/mri-from-picture-to-proton/3ADC814FF8FC6A78A54D37746F806D5A)
+
+```NMR Imaging in Biomedicine```
+
+***P. Mansfield and P.G. Morris,New York: Academic Press, 1982***
+
+It is a classic textbook with the elegant treatment of NMR techniques, though too involved for a beginner.
+
+[Link](https://www.amazon.com/NMR-Imaging-Biomedicine-Supplement-Resonance/dp/0124316034)
+
+```The Principles of Nuclear Magnetism```
+
+***A. Abragam, Oxford, 1961***
+
+It is a standard text for quantum mechanical treatment of nuclear magnetism; requires good knowledge of quantum mechanics.
+
+
 ## MRS Workshop 2018 
 
 (pdf) – ```Intermediate```
@@ -246,16 +298,4 @@ Note: an ISMRM login is required
 
 
 
-
-
-## Selected Books 
-
-- R.A. de Graaf `In Vivo NMR Spectroscopy: Principles and Techniques`,John Wiley & Sons Ltd.,ThirdEdition, 2018(comprehensive and comprehendible overview of in vivo MR spectroscopy techniques; very extensive treatment of radiofrequency (RF) pulses including adiabatic RF pulses; probably thereference as a textbookfor MRS)
-- P.B. Barker, A. Bizzi, N. De Stefano, R.Gullapalli, and D.D.M. Lin `Clinical MR Spectroscopy:Techniques and Applications`,Cambridge University Press,2010(describes underlying physical principles of MRS and provides a perceptive review of clinical MRS applications)
-- R.W. Brown, Y.-C.N. Cheng, E.M. Haacke, M.R. Thompson, and R.Venkatesan `Magnetic Resonance Imaging: Physical Principles and Sequence Design`, New York: J. Wiley & Sons, c1999; 2ndEdition,2014 (excellent text that balances mathematical strictness and physics concepts with intuitional and technical explanations!!!;specific topics, such as fast spin echo, are treated toa lesser extent than desirable; only a few pages about MR spectroscopy)
-- D.W. McRobbie, E.A. Moore, M.J. Graves and M.R. Prince`MRI From Proton to Picture`,Cambridge University Press, 2ndEdition, 2006 (comprehensive introduction to the basics of MR practice and theory; very comprehendible and with superb illustrations; one chapter about MR spectroscopy)
-- P. Mansfield and P.G. Morris `NMR Imaging in Biomedicine`,New York: Academic Press, 1982(classic textbook with elegant treatment of NMR techniques, though too involved for a beginner)
-- A. Abragam `The Principles of Nuclear Magnetism`, Oxford, 1961(standard text for quantum mechanical treatment of nuclear magnetism; requires good knowledge of quantum mechanics)Selected papers for MRS & NMR(to be completed):
-- One of the first papers about the basic concepts of NMR:[1]
-- The fundamental concept of an echo is introduced in:[2][1]F. Bloch, “Nuclear induction,” Physical Review, vol. 70, pp. 460-74, 1946.[2]E. L. Hahn, “Spin Echoes,” Physical Review, vol. 80, pp. 580, 1950
 
