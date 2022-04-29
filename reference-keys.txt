@@ -22,10 +22,10 @@ product-operators
 d-nmr
 relaxation
 phase-cycling-and-gradient-pulses
-coupling-constants
-insensitive-nuclei-enhanced-by-polarization-transfer-inept
 skeletal-muscle-mr-spectroscopy-at-high-field
 skeletal-muscle-mr-spectroscopy-in-neuromuscular-disease
+coupling-constants
+insensitive-nuclei-enhanced-by-polarization-transfer-inept
 web-links-1
 video-links
 mrs-workshop-2018
