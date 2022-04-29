@@ -2,7 +2,7 @@
 
 ## Online Library for MRS Educational Materials
 
-Summary 
+_Resources curated from the global MRS community and provided generously by the authors_
 
 ### Introduction to MRS
 
@@ -16,6 +16,7 @@ Introduction to basic principles behind MRS including chemical shift, J-coupling
 Video
 
 ***Ulrike Dydak*** 
+
 
 ### Skeletal Muscle MR Spectroscopy at High Field
 
@@ -186,7 +187,6 @@ A slide about a specific pulse sequence INEPT. This slide briefly introduces mai
 - ```Adelaide web site for MR spectroscopy``` [Link](http://www.users.on.net/~spinupdownunder/spectroscopy/MRS.htm)
 
 ## Video Links
-
 
 - Introducing MRI (Albert Einstein College of Medicine) - beginner to advanced 
 
