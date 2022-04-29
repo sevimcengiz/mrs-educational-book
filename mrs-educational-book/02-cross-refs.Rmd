@@ -230,18 +230,22 @@ Course includes 56 videos starting with the basics of NMR physics, signal genera
 
 ## MRS Workshop 2018 
 
-(pdf) – ```Intermediate```
+```Intermediate```
 
 Lectures from the MRS Metabolic Imaging Workshop in Utrecht, The Netherlands 
 
 Topics include multi-voxel MRS, fast metabolic imaging, quality of MRS data, spectral fitting and quantification, applications of MRS, multinuclear MRS, MRS in neuroscience, MRS outside the brain, and consensus discussions 
 
-## 2020-2018 ISMRM courses (spreadsheet) – 
+[PDF](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/MRS%20workshop%202018%20Youtube%20program.pdf)
+
+## 2020-2018 ISMRM courses– 
 
 ```Beginner to advanced```
  
 Links to all MRS-related educational presentations from the ISMRM Annual Meeting from 2018-2020 
 Note: an ISMRM login is required 
+
+[Spreadsheet](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/2020-2018_ISMRM_courses_01042022.xlsx) PS: Click on "view raw" to download it.
  
 
 
