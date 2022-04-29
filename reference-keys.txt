@@ -1,4 +1,4 @@
-section
+getting-started-with-mrs-a-digital-collection-of-community-sourced-educational-materials
 foreword
 mri
 mri-study-material-list
