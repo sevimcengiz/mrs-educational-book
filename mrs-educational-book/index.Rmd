@@ -34,13 +34,13 @@ __Editors__
 Candace Fleischer -  
 Emory University School of Medicine, Atlanta, Georgia, United States <br>
 fleischerlab@gmail.com 
-[![Twitter URL](https://www.google.com/imgres?imgurl=https%3A%2F%2Fabout.twitter.com%2Fcontent%2Fdam%2Fabout-twitter%2Fen%2Fbrand-toolkit%2Fbrand-download-img-1.jpg.twimg.1920.jpg&imgrefurl=https%3A%2F%2Fabout.twitter.com%2Fen%2Fwho-we-are%2Fbrand-toolkit&tbnid=rIAyQXgMXI27QM&vet=12ahUKEwj4tMKB0bj3AhUFZxoKHa6iARkQMygBegUIARDdAQ..i&docid=IYAmNP8TJ3_e2M&w=660&h=656&q=twitter%20logo&client=safari&ved=2ahUKEwj4tMKB0bj3AhUFZxoKHa6iARkQMygBegUIARDdAQ)](https://twitter.com/fleischer_lab)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fleischer_lab.svg?style=social&label=Follow%20%40fleischer_lab)](https://twitter.com/fleischer_lab)
 
 
 Georg Oeltzschner - 
 Johns Hopkins University, Baltimore, MD, United States <br>
 goeltzs1@jhmi.edu 
-[![Twitter URL](https://www.google.com/imgres?imgurl=https%3A%2F%2Fabout.twitter.com%2Fcontent%2Fdam%2Fabout-twitter%2Fen%2Fbrand-toolkit%2Fbrand-download-img-1.jpg.twimg.1920.jpg&imgrefurl=https%3A%2F%2Fabout.twitter.com%2Fen%2Fwho-we-are%2Fbrand-toolkit&tbnid=rIAyQXgMXI27QM&vet=12ahUKEwj4tMKB0bj3AhUFZxoKHa6iARkQMygBegUIARDdAQ..i&docid=IYAmNP8TJ3_e2M&w=660&h=656&q=twitter%20logo&client=safari&ved=2ahUKEwj4tMKB0bj3AhUFZxoKHa6iARkQMygBegUIARDdAQ)](https://twitter.com/oeltzschner)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/oeltzschner.svg?style=social&label=Follow%20%40oeltzschner)](https://twitter.com/oeltzschner)
 
  
 __Authors and Co-Editors__ 
@@ -53,7 +53,7 @@ Sevim Cengiz -
 Mohamed Bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE - 
 Bogazici University, Istanbul, Turkey <br>
 sevim_cengiz@icloud.com
-[![Twitter URL](https://www.google.com/imgres?imgurl=https%3A%2F%2Fabout.twitter.com%2Fcontent%2Fdam%2Fabout-twitter%2Fen%2Fbrand-toolkit%2Fbrand-download-img-1.jpg.twimg.1920.jpg&imgrefurl=https%3A%2F%2Fabout.twitter.com%2Fen%2Fwho-we-are%2Fbrand-toolkit&tbnid=rIAyQXgMXI27QM&vet=12ahUKEwj4tMKB0bj3AhUFZxoKHa6iARkQMygBegUIARDdAQ..i&docid=IYAmNP8TJ3_e2M&w=660&h=656&q=twitter%20logo&client=safari&ved=2ahUKEwj4tMKB0bj3AhUFZxoKHa6iARkQMygBegUIARDdAQ)](https://twitter.com/siimcengiz)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/siimcengiz.svg?style=social&label=Follow%20%40siimcengiz)](https://twitter.com/siimcengiz)
 
 Cristina Cudalbu - 
 CIBM MRI EPFL, Switzerland <br> 
@@ -70,7 +70,7 @@ John LaMaster -
 Technical University of Munich -
 The University of Zurich <br>
 jlamaste@gmail.com
-[![Twitter URL](https://www.google.com/imgres?imgurl=https%3A%2F%2Fabout.twitter.com%2Fcontent%2Fdam%2Fabout-twitter%2Fen%2Fbrand-toolkit%2Fbrand-download-img-1.jpg.twimg.1920.jpg&imgrefurl=https%3A%2F%2Fabout.twitter.com%2Fen%2Fwho-we-are%2Fbrand-toolkit&tbnid=rIAyQXgMXI27QM&vet=12ahUKEwj4tMKB0bj3AhUFZxoKHa6iARkQMygBegUIARDdAQ..i&docid=IYAmNP8TJ3_e2M&w=660&h=656&q=twitter%20logo&client=safari&ved=2ahUKEwj4tMKB0bj3AhUFZxoKHa6iARkQMygBegUIARDdAQ)](https://twitter.com/johntlamaster)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/johntlamaster.svg?style=social&label=Follow%20%40johntlamaster)](https://twitter.com/johntlamaster)
 
 Alexandra Lipka - 
 High Field MR Centre, Department of Biomedical Imaging and Image-guided Therapy, Medical University of Vienna, Vienna, Austria <br>
