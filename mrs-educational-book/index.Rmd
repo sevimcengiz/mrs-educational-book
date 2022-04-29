@@ -19,7 +19,6 @@ github-repo: rstudio/bookdown-demo
 
 ***FOREWORD***
 
-__A digital collection of community-sourced educational materials__
 
 In 2021, the Committee for Code & Data Sharing, a standing committee of the MR Spectroscopy (MRS) Study Group within the International Society for Magnetic Resonance in Medicine (ISMRM), set out to compile and curate educational materials related to MRS. Our goal was to develop a centralized resource of MRS-related materials that is freely available, annotated, and updated often. While a plethora of MRS resources exist, these can be difficult to navigate for newcomers to the field. This e-book contains a glossary and summaries written with college-level students in mind, and educational materials were provided by the global MRS community. The first edition of this collection was debuted at the 2022 ISMRM Annual Meeting in London, England, and we hope researchers will continue to contribute new educational content and material. We encourage this resource to be shared widely with students, collaborators, and colleagues who are interested in learning more about MRS and welcome any feedback and future contributions.  
 
@@ -84,7 +83,7 @@ rudy.rizzo@insel.ch
 dong.suk.sung@emory.edu 
 
 <u>Edith Touchet-Valle </u>- 
-Texas A&M Universit <br>
+Texas A&M University <br>
 edithvvalle@tamu.edu
  
 __Educational content provided by__ 
@@ -121,4 +120,4 @@ Believe me, all of your course materials, presentations, and videos are valuable
 
 __How to share?__
 
-People can add their material by simply posting in the [forum](https://forum.mrshub.org/t/call-for-participation-mrs-educational-collection/529) or submitting pull requests on GitHub. 
+People can add their material by simply posting in the [forum](https://forum.mrshub.org/t/call-for-participation-mrs-educational-collection/529), submitting pull requests on GitHub or directly sending an e-mail (fleischerlab@gmail.com). 

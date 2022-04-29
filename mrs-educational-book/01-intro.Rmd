@@ -16,7 +16,7 @@ MRS = Magnetic Resonance Spectroscopy
 
 [Book](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118633953) ```RW Brown, YCN Cheng, EM Haacke, MR Thompson, R Venkatesan```
 
-  - Excellent text that balances mathematical strictness and physics concepts with intuitionaland technical explanations. Specific topics, such as fast spin echo, are treated toa lesser extent than desirable; only a few pages about MR spectroscopy
+  - Excellent text that balances mathematical strictness and physics concepts with intuitional and technical explanations. Specific topics, such as fast spin echo, are treated to a lesser extent than desirable; only a few pages about MR spectroscopy
 
 ***Handbook of MRI Pulse Sequences*** 
 
@@ -56,7 +56,7 @@ MRS = Magnetic Resonance Spectroscopy
 
 [Book](https://books.google.ae/books?id=9M8U_JK7K54C&printsec=frontcover&dq=The+Principles+of+Nuclear+Magnetism+english!&hl=en&sa=X&ved=2ahUKEwiarMPppKj3AhVARPEDHRYjCf4Q6AF6BAgJEAI#v=onepage&q&f=false) ```A Abragam```
 
-  - Standard text for quantum mechanical treatment of nuclear magnetism; requires good knowledge of quantum mechanics)
+  - Standard text for quantum mechanical treatment of nuclear magnetism; requires good knowledge of quantum mechanics
 
 ## Selected Papers
 
@@ -94,25 +94,15 @@ _References_
 
 **Here are some web links that lead to tutorials or introductory material for MRI & MRS:**
 
-- https://www.cis.rit.edu/htbooks/mri/ 
 
-  (online book `The Basics of MRI` by Hornak with nice animations, intended for beginners)
+- ```The Basics of NMR``` by Hornak with animations, intended for beginners. [Online book](https://www.cis.rit.edu/htbooks/nmr/)
 
-- https://www.cis.rit.edu/htbooks/nmr/ 
+- ```The Basics of MRI``` by Hornak with nice animations, intended for beginners. [Online book](https://www.cis.rit.edu/htbooks/mri/)
 
-  (online book `The Basics of NMR` by Hornak with nice animations, intended for beginners)
+- ```Introduction to MRI``` [Link](http://www.mritutor.org/mritutor)
 
-- http://www.mritutor.org/mritutor/ 
+- ```MRI Physics``` put simply; some links to educational topics about MRI, e.g. MRI basics text [Link](http://www.simplyphysics.com/)
 
-  (Introduction to MRI)
-
-- http://www.simplyphysics.com/ 
-
-  (MRI Physics put simply; some links to educational topics about MRI, e.g. MRI basics text)
-
-- http://www.users.on.net/~spinupdownunder/spectroscopy/MRS.htm 
-
-  (Adelaide web site for MR spectroscopy)
 
 
 
