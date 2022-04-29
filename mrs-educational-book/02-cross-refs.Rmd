@@ -52,7 +52,7 @@ This lecture introduces ‘classical’ single voxel in vivo MRS sequences witho
 
 [Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/L2_LocalizationMethods_Riemann.pdf)
 
-***Ariane Fillmer, PhD***  PS: Presenter: Layla Tabea Riemann, M.Sc.
+***Layla Tabea Riemann, M.Sc.***
 
 #### Calibration & Workflow 
 

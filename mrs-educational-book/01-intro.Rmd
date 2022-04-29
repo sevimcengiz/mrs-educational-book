@@ -48,7 +48,7 @@ MRS = Magnetic Resonance Spectroscopy
 
 ***NMR Imaging in Biomedicine***
 
-[Book](https://books.google.ae/books/about/NMR_Imaging_in_Biomedicine.html?id=QLBqAAAAMAAJ&redir_esc=y) ```PG Morris, P Mansfield```
+[Book](https://books.google.ae/books?id=GkvlYqK7VB4C&printsec=frontcover&dq=NMR+Imaging+in+Biomedicine+morris+mansfield&hl=en&sa=X&ved=2ahUKEwj43afMsLr3AhUng_0HHWz-BeQQ6AF6BAgIEAI#v=onepage&q=NMR%20Imaging%20in%20Biomedicine%20morris%20mansfield&f=false) ```PG Morris, P Mansfield```
 
   - Classic textbook with elegant treatment of NMR techniques, though too involved for a beginner.
 
