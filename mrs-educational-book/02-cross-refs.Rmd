@@ -126,33 +126,6 @@ This chapter considers the important topic of relaxation in NMR. We start out by
 
 This chapter is concerned with the two methods used in multiple pulse NMR to select a particular outcome in an NMR experiment: phase cycling and field gradient pulses. An understanding of how these work is helpful in getting to grips with the details of how experiments are actually run.
 
-#### Coupling Constants 
-
-***Eugene E. Kwan***
-
-```Advanced```
-
-[Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/NMR_J-Coupling_201201_Lecture_3_CouplingConstants_Harvard_Kwan_EE.pdf)
-
-```Keywords:``` *Hoye’s method*, *J coupling*, *the Fermi contact model*, *virtual coupling*, *chemical and magnetic equivalence*, *first and second order spectra*
-
-This is an expert level lecture about coupling constants. This lecture trying to answer three questions: 1) what are coupling constants, 2) how big are they, and 3)how can they be extracted from first-order multiplets
-
-#### Insensitive Nuclei Enhanced by Polarization Transfer (INEPT) 
-
-```Advanced```
-
-A slide about a specific pulse sequence INEPT. This slide briefly introduces main interactions in solution NMR (the chemical shift and the J coupling), and then explains about concepts of spin echo sequence and decoupling. They combined the spin echo and decoupling and tried some theoretical experiments.
-
-[Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/presentation_INEPT_MRS_sequence.pdf)
-
-
-
-
-
-
-
-
 
 ### Skeletal Muscle MR Spectroscopy at High Field
 
@@ -177,6 +150,29 @@ Introduction to muscular damage and disease with a focus on 31P MRS and utility 
 [Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/MRS%20in%20neuromuscular%20disease%20Inspector.pdf) 
 
 ***Hermien Kan*** 
+
+### Coupling Constants 
+
+```Advanced```
+
+```Keywords:``` *Hoye’s method*, *J coupling*, *the Fermi contact model*, *virtual coupling*, *chemical and magnetic equivalence*, *first and second order spectra*
+
+This is an expert level lecture about coupling constants. This lecture trying to answer three questions: 1) what are coupling constants, 2) how big are they, and 3)how can they be extracted from first-order multiplets
+
+[Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/NMR_J-Coupling_201201_Lecture_3_CouplingConstants_Harvard_Kwan_EE.pdf)
+
+***Eugene E. Kwan***
+
+
+### Insensitive Nuclei Enhanced by Polarization Transfer (INEPT) 
+
+```Advanced```
+
+A slide about a specific pulse sequence INEPT. This slide briefly introduces main interactions in solution NMR (the chemical shift and the J coupling), and then explains about concepts of spin echo sequence and decoupling. They combined the spin echo and decoupling and tried some theoretical experiments.
+
+[Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/presentation_INEPT_MRS_sequence.pdf)
+
+*** Gareth A. Morris and Ray Freeman***
 
 ## Web links
 

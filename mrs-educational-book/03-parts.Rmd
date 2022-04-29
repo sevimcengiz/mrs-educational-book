@@ -2,6 +2,10 @@
 
 ***Target Audience:*** Students and researchers who have taken a college or university-level chemistry course 
 
+***GLOSSARY FORWARD***
+
+_A number of excellent and comprehensive glossaries are currently available for both MRI and MRS, however, many of these are written for a scientist already familiar with the field. One challenge when getting started with MRS is the gap between the language used in the scientific literature and the basics introduced in college coursework. The goal of the glossary herein is to fill this gap, providing simple introductions to concepts used routinely by scientists in the field. For more comprehensive descriptions, we refer to the reader to Section 4.6 which includes the current consensus on the proper terminology for MRS._
+
 ## Introduction and Fundamentals
 
 ***Energy Splitting:*** The spin states of nuclei have different energy levels when the nucleus is in an external magnetic field (i.e., B0). The difference between energy levels is known as energy (or Zeeman) splitting. This energy difference is what is detected in the NMR experiment using an RF pulse with the same amount of energy.
