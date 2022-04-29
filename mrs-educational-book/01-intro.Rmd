@@ -48,7 +48,7 @@ MRS = Magnetic Resonance Spectroscopy
 
 ***NMR Imaging in Biomedicine***
 
-[Book](https://books.google.ae/books/about/NMR_Imaging_in_Biomedicine.html?id=QLBqAAAAMAAJ&redir_esc=y) ``PG Morris, P Mansfield```
+[Book](https://books.google.ae/books/about/NMR_Imaging_in_Biomedicine.html?id=QLBqAAAAMAAJ&redir_esc=y) ```PG Morris, P Mansfield```
 
   - Classic textbook with elegant treatment of NMR techniques, though too involved for a beginner.
 
@@ -60,23 +60,23 @@ MRS = Magnetic Resonance Spectroscopy
 
 ## Selected Papers
 
-- One of the first papers about the basic concepts of NMR:<sup>1 ```F Bloch, Nuclear induction``` 
+- One of the first papers about the basic concepts of NMR: ```F Bloch, Nuclear induction``` <sup>1
 
-- A good introduction to basic NMR signal detection:<sup>2 ```WS Hinshaw and AH Lent, An introduction to NMR imaging: From the Bloch equation to the imaging equation```
+- A good introduction to basic NMR signal detection: ```WS Hinshaw and AH Lent, An introduction to NMR imaging: From the Bloch equation to the imaging equation``` <sup>2
 
-- The fundamental concept of an echo is introduced in:<sup>3 ```EL Hahn, Spin Echoes```
+- The fundamental concept of an echo is introduced in: ```EL Hahn, Spin Echoes``` <sup>3
 
-- Basic k-space concepts are discussed in:<sup>4 ```DB Twieg, The k-trajectory formulation of the NMR imaging process with applications in analysis and synthesis of imaging methods```
+- Basic k-space concepts are discussed in: ```DB Twieg, The k-trajectory formulation of the NMR imaging process with applications in analysis and synthesis of imaging methods``` <sup>4
 
-- The alternate phase encoding scheme for Fourier imaging was introduced in:<sup>5 ```A Kumar, D Welti, and RR Ernst, “NMR Fourier Zeugmatography```
+- The alternate phase encoding scheme for Fourier imaging was introduced in: ```A Kumar, D Welti, and RR Ernst, NMR Fourier Zeugmatography``` <sup>5
 
-- A theory of small tip-angle approximation of viewing slice selection in k-space was developed in:<sup>6 ```J Pauly, D Nishimura, and A Macovski, “A k-space analysis of small tip angle excitation```
+- A theory of small tip-angle approximation of viewing slice selection in k-space was developed in: ```J Pauly, D Nishimura, and A Macovski, A k-space analysis of small tip angle excitation``` <sup>6
 
-- Superb and detailed review of the fast spin echo (FSE) sequence together with an introduction to MRI:<sup>7 ```J Listerud, S Einstein, E Outwater, and HY Kressel, First principles of fast spin echo```
+- Superb and detailed review of the fast spin echo (FSE) sequence together with an introduction to MRI: ```J Listerud, S Einstein, E Outwater, and HY Kressel, First principles of fast spin echo``` <sup>7
 
-- Fast gradient echo imaging is discussed in:<sup>8 ```P van der Meulen, JP Groen, and JJ Cuppen, Very fast MR imaging by field echoes and small angle excitation```
+- Fast gradient echo imaging is discussed in: ```P van der Meulen, JP Groen, and JJ Cuppen, Very fast MR imaging by field echoes and small angle excitation``` <sup>8
 
-- Overview of contrast and resolution in MRI:<sup>9 ```RT Constable and RM Henkelman, Contrast, resolution, and detectability in MR imaging```
+- Overview of contrast and resolution in MRI: ```RT Constable and RM Henkelman, Contrast, resolution, and detectability in MR imaging``` <sup>9
 
 _References_
 

@@ -262,9 +262,7 @@ Course includes 56 videos starting with the basics of NMR physics, signal genera
 
 ***The Principles of Nuclear Magnetism***
 
-[Book](https://global.oup.com/academic/product/the-principles-of-nuclear-magnetism-9780198520146?cc=ae&lang=en&)
-
-```A Abragam, Oxford, 1961```
+[Book](https://global.oup.com/academic/product/the-principles-of-nuclear-magnetism-9780198520146?cc=ae&lang=en&) ```A Abragam, Oxford, 1961```
 
 - It is a standard text for quantum mechanical treatment of nuclear magnetism; requires good knowledge of quantum mechanics.
 
