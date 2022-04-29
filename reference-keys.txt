@@ -28,9 +28,9 @@ coupling-constants
 insensitive-nuclei-enhanced-by-polarization-transfer-inept
 web-links-1
 video-links
+selected-books
 mrs-workshop-2018
 ismrm-courses-spreadsheet
-selected-books
 mrs-and-nmr-glossary
 introduction-and-fundamentals
 nmr-signal-and-spectra
