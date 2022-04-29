@@ -1,8 +1,5 @@
+section
 foreword
-a-digital-collection-of-community-sourced-educational-materials
-editors
-authors-and-co-editors
-educational-content-provided-by
 mri
 mri-study-material-list
 selected-books-for-mri-nmr
