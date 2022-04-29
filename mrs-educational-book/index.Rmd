@@ -17,7 +17,7 @@ github-repo: rstudio/bookdown-demo
 
 # Getting started with MRS: A digital collection of community-sourced educational materials
 
-## Foreword 
+***FOREWORD***
 
 __A digital collection of community-sourced educational materials__
 
@@ -29,18 +29,20 @@ For feedback and contributions:
 
 [***Post on the MRSHub Forum:***](https://forum.mrshub.org/) 
 
-*_Dear MRS researchers,_*
+## Sharing is caring
+
+***Dear MRS researchers***
 
 We, trying to fill the gap between the language used in the scientific literature and the basics introduced in college coursework for people who are started with MRS, encourage Dear MRS researchers to share their materials.  
 
-*_Why sharing is important?_*
+__Why sharing is important?__
 
 This website is a great example of the living resource of MRS. 
 There are a variety of motivations to share your work. 
 Others don't have to start from scratch if you share your work; instead, they can build on it.
 Believe me, all of your course materials, presentations, and videos are valuable to us.
 
-*_How to share?_*
+__How to share?__
 
 People can add their material by simply posting in the [forum](https://forum.mrshub.org/t/call-for-participation-mrs-educational-collection/529) or submitting pull requests on GitHub. 
 
