@@ -2,6 +2,7 @@
 
 set -e
 
+git fetch
 git checkout gh-pages
 cp -R book/* .
 rm -Rf book
