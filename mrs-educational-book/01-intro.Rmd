@@ -5,6 +5,7 @@
 **_Acroyms:_**
 
 ```
+SEVIM
 NMR = Nuclear Magnetic Resonance
 MRI = Magnetic Resonance Imaging
 MRS = Magnetic Resonance Spectroscopy
