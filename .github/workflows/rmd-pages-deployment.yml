@@ -20,4 +20,4 @@ jobs:
           Rscript -e 'install.packages("rmarkdown")'
           Rscript -e 'install.packages("bookdown")'
       - name: Render Rmd files
-        run: Rscript -e "bookdown::render_book('mrs-educational-book/index.Rmd', 'bookdown::gitbook', output_dir = 'book')"
+        run: ./build.sh
