@@ -21,3 +21,5 @@ jobs:
           Rscript -e 'install.packages("bookdown")'
       - name: Render Rmd files
         run: ./build.sh
+      - name: Update gh-pages
+        run: ./deploy.sh

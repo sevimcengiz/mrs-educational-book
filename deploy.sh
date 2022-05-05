@@ -8,4 +8,3 @@ rm -Rf book
 git add --all *
 git commit -m "Update the book"
 git push
-git checkout main
