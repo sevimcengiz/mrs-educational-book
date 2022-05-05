@@ -4,9 +4,7 @@ Steps:
 
 You need to fork this repo. 
 
-<img src="https://github.com/sevimcengiz/mrs-educational-book/tree/main/mrs-educational-book/_bookdown_files/_main_files/figure-html/forkrepo.png" width="200" height="80">
-
-
+![](_bookdown_files/_main_files/figure-html/forkrepo.png)
 
 1. Clone repo
 
@@ -46,4 +44,4 @@ https://github.com/sevimcengiz/mrs-educational-book/settings/pages
 
 You will see this screen and when you check the link it will automatically updates the changes that you made. 
 
-<img src="https://github.com/sevimcengiz/mrs-educational-book/tree/main/mrs-educational-book/_bookdown_files/_main_files/figure-html/ghpages.png" width="200" height="100">
+![](_bookdown_files/_main_files/figure-html/ghpages.png)
