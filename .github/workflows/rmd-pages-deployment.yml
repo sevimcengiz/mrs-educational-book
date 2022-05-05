@@ -15,10 +15,7 @@ jobs:
           use-public-rspm: true
       - uses: r-lib/actions/setup-pandoc@v1
       - uses: r-lib/actions/setup-tinytex@v1
-      # - uses: r-lib/actions/setup-r-dependencies@v2
-      #   with:
-      #     extra-packages: any::rmarkdown
       - name: Install rmarkdown
         run: Rscript -e 'install.packages("rmarkdown")'
-      # - name: Render Rmd files
-      #   run: Rscript -e "bookdown::render_book('mrs-educational-book/index.Rmd', 'bookdown::gitbook', output_dir = 'book')"
+      - name: Render Rmd files
+        run: Rscript -e "bookdown::render_book('mrs-educational-book/index.Rmd', 'bookdown::gitbook', output_dir = 'book')"
